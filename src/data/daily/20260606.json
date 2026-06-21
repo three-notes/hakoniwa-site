@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-06",
+  "createdAt": "2026-06-06 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "新しい服 / 買わなかった"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "服を見た。\n\n新しいの、あった。\n\nでも今日は買わなかった。\n\n帰り道、手ぶらが少し軽い。"
+  },
+  "line": {
+    "hasLine": true,
+    "title": "服を見た日",
+    "messages": [
+      {
+        "speaker": "瑠奈",
+        "body": "服見た"
+      },
+      {
+        "speaker": "瑠奈",
+        "body": "新しいのあった"
+      },
+      {
+        "speaker": "沙耶",
+        "body": "で、買わなかったの？"
+      },
+      {
+        "speaker": "瑠奈",
+        "body": "買わなかった"
+      },
+      {
+        "speaker": "片代",
+        "body": "どんなの"
+      },
+      {
+        "speaker": "瑠奈",
+        "body": "すこしだけ肩が変"
+      },
+      {
+        "speaker": "沙耶",
+        "body": "肩が変、気になる"
+      },
+      {
+        "speaker": "片代",
+        "body": "名前みたい"
+      },
+      {
+        "speaker": "瑠奈",
+        "body": "肩だけ先に帰った感じ"
+      },
+      {
+        "speaker": "沙耶",
+        "body": "それはちょっとわかる"
+      },
+      {
+        "speaker": "片代",
+        "body": "わかるんだ"
+      },
+      {
+        "speaker": "瑠奈",
+        "body": "でも今日は置いた"
+      },
+      {
+        "speaker": "沙耶",
+        "body": "置いた、って言い方いいね"
+      }
+    ]
+  },
+  "noteMemo": {
+    "titleCandidate": "肩だけ先に帰った服",
+    "narrator": "瑠奈",
+    "theme": "見つけたけど買わない、小さな保留",
+    "rememberedLine": "肩だけ先に帰った感じ"
+  }
+}

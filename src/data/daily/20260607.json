@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-07",
+  "createdAt": "2026-06-07 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "駅の混雑 / 見るだけ"
+  },
+  "x": {
+    "hasPost": false,
+    "poster": null,
+    "handle": null,
+    "text": ""
+  },
+  "line": {
+    "hasLine": false,
+    "title": null,
+    "messages": []
+  },
+  "noteMemo": {
+    "titleCandidate": "駅で見るだけの朝",
+    "narrator": "瑠奈",
+    "theme": "混雑を抜けるより、見るだけで終わる小さい観察",
+    "rememberedLine": "見るだけで終わったけど、気になるものは残った"
+  }
+}

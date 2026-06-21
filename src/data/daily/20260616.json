@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-16",
+  "createdAt": "2026-06-16 22:04:30 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "土手 / 写真"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "土手で写真を撮った。風で前髪が一回顔にかかったから、少し下げて撮り直した。\n瑠奈が画面の端をのぞいてきて、端がちょっと切れたのがそのまま残った。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "full",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "これ見て、土手で撮った写真。"
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "見せて。草が入ってる。"
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "端ちょっと切れてる、そこいい。"
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "風で前髪が入って、1回撮り直した。"
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "じゃあ今のを送って。広い感じが出てる。"
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "送るなら、こっちの明るいやつが見やすい。"
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "うん、そっち送る。画面の端だけ切れたまま。"
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "その切れ方、あとで見返すと分かるね。"
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "スクショも一枚残しておく、草が先に見えるから。"
+      }
+    ]
+  },
+  "noteMemo": {
+    "titleCandidate": "土手で撮った写真",
+    "narrator": "片代",
+    "theme": "風で少し崩れた撮影と、土手の草が入った写真",
+    "rememberedLine": "風で前髪が一回顔にかかったから、少し下げて撮り直した。"
+  }
+}

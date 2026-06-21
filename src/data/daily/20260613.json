@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-13",
+  "createdAt": "2026-06-13 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "湿気 / 袋"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "袋が少しふにゃっとしてた。湿気かな。しまい直したら、入り方がだいぶましになった。"
+  },
+  "line": {
+    "hasLine": false,
+    "title": null,
+    "messages": []
+  },
+  "noteMemo": {
+    "titleCandidate": "しまい直した袋",
+    "narrator": "瑠奈",
+    "theme": "湿気で袋の口がやわらかくなっていた",
+    "rememberedLine": "しまい直したら、入り方がだいぶましになった"
+  }
+}

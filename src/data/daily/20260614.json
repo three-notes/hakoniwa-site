@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-14",
+  "createdAt": "2026-06-14 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "夜 / ギフト券"
+  },
+  "x": {
+    "hasPost": false,
+    "poster": null,
+    "handle": null,
+    "text": ""
+  },
+  "line": {
+    "hasLine": true,
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "speaker": "沙耶",
+        "body": "これ、昨日のギフト券まだ机にあった。夜までに使うか迷ってる"
+      },
+      {
+        "speaker": "片代",
+        "body": "え、机の上に置きっぱなし？ どれ"
+      },
+      {
+        "speaker": "瑠奈",
+        "body": "あ、それ"
+      },
+      {
+        "speaker": "沙耶",
+        "body": "袋の中に入れたまま？"
+      },
+      {
+        "speaker": "瑠奈",
+        "body": "うん"
+      },
+      {
+        "speaker": "片代",
+        "body": "じゃあ今ひらいてみる？"
+      },
+      {
+        "speaker": "沙耶",
+        "body": "いいけど、夜に残すのもありそう"
+      },
+      {
+        "speaker": "瑠奈",
+        "body": "夜のほうが見やすいかも"
+      }
+    ]
+  },
+  "noteMemo": {
+    "titleCandidate": "夜に残したギフト券",
+    "narrator": "瑠奈中心",
+    "theme": "机の上の小さい保留を、すぐ決めずに夜へずらした",
+    "rememberedLine": "薄いほう"
+  }
+}

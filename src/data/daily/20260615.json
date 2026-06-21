@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-15",
+  "createdAt": "2026-06-15 23:31:56 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "変な看板 / 大きめ"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "駅前で、大きめの看板だけ字の並びが変だった。  \n瑠奈が立ち止まって、端のほうをじっと見てた。  \n読む前に目が先に迷うやつだなと思った。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "noteMemo": {
+    "titleCandidate": "大きい看板の端だけ変",
+    "narrator": "片代",
+    "theme": "見た瞬間の引っかかりと、次の小さい行動",
+    "rememberedLine": "文字の並びがへんで、目が先に引っかかった"
+  }
+}

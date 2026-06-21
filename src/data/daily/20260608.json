@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-08",
+  "createdAt": "2026-06-08 22:43:12 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "公園 / 新しいペン"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "公園で新しいペンを使った。\n\n線が思ったより静かだった。\n\nたぶん、静かな日に向いてる。"
+  },
+  "line": {
+    "hasLine": false,
+    "title": null,
+    "messages": []
+  },
+  "noteMemo": {
+    "titleCandidate": "公園の新しいペン",
+    "narrator": "瑠奈",
+    "theme": "小さい道具をその場で使ってみる感じ",
+    "rememberedLine": "線が思ったより静かだった。"
+  }
+}
