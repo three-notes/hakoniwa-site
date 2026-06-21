@@ -1,26 +1,63 @@
 {
   "date": "2026-06-21",
-  "createdAt": "2026-06-21 22:21:42 +0900",
+  "createdAt": "2026-06-21 22:23:51 +0900",
   "eventOwner": "瑠奈",
   "seed": {
-    "label": "エレベーター待ち / レシート"
+    "label": "店先のPOP / 試供品"
   },
   "x": {
     "hasPost": true,
-    "poster": "片代",
-    "handle": "@katayo",
-    "text": "エレベーター前で、瑠奈がレシートを二つに折って見てた。  \n「これ、まだ長い」と言って、先にポケットへ入れたのが変だった。  \n待ってるだけなのに、手だけ忙しそうだった。"
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "店先のPOPに「試供品あります」って出てて、つい足が止まった。  \n一個もらったら、指にのるくらい小さくて、袋の中でころんとした。  \n本体も見たけど、そっちより先に試供品を触ってしまった。"
   },
   "line": {
-    "hasLine": false,
-    "mode": "none",
-    "title": null,
-    "messages": []
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "これ、店先の試供品もらった。",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "え、見せて",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "小さい？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "うん、指にのる。袋の中でころんってした",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "POP見て止まったやつ？",
+        "reaction": "😮"
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "そう。先に触ったら、本体も横にあった",
+        "reaction": null
+      }
+    ]
   },
   "noteMemo": {
-    "titleCandidate": "エレベーター前のレシート",
-    "narrator": "片代",
-    "theme": "待ち時間にレシートを折ってしまう瑠奈の手つき",
-    "rememberedLine": "「これ、まだ長い」"
+    "titleCandidate": "店先のPOPと試供品",
+    "narrator": "瑠奈",
+    "theme": "店先のPOPを見て、試供品を先に触った",
+    "rememberedLine": "指にのる。"
   }
 }
