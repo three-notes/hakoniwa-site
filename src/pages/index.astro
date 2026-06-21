@@ -48,6 +48,15 @@ const recentLineTitle = daysSinceLine === 0
   ? "今日のトークを残してます"
   : `${previousLineDateLabel}のトークをちょっと残してます`;
 
+const reactionPresentation = {
+  "🙂": { kind: "smile", label: "にこにこ" },
+  "😅": { kind: "sweat", label: "苦笑い" },
+  "😳": { kind: "shy", label: "びっくり" },
+  "😮": { kind: "surprise", label: "驚き" },
+  "😢": { kind: "sad", label: "しょんぼり" },
+  "😉": { kind: "wink", label: "ウインク" },
+};
+
 const characters = [
   {
     roman: "Asagiri Saya",
@@ -197,9 +206,18 @@ const iconPathBySpeaker = {
                       {!mine && <span class="speaker-name">{message.speaker}</span>}
                       <p class:list={["bubble", mine ? "bubble-mine" : "bubble-other"]}>
                         {message.body}
-                        {message.reaction && (
-                          <span class="message-reaction" aria-label="表情">
-                            {message.reaction}
+                        {message.reaction && reactionPresentation[message.reaction] && (
+                          <span
+                            class:list={[
+                              "message-reaction",
+                              `reaction-${reactionPresentation[message.reaction].kind}`,
+                            ]}
+                            role="img"
+                            aria-label={reactionPresentation[message.reaction].label}
+                          >
+                            <span class="reaction-eyes"></span>
+                            <span class="reaction-mouth"></span>
+                            <span class="reaction-mark"></span>
                           </span>
                         )}
                       </p>
