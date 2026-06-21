@@ -55,6 +55,8 @@ C:\work\chatgpt\hakoniwa_site\sync-daily-data.cmd
 C:\work\chatgpt\hakoniwa_site\src\data\daily
 ```
 
+公開後のGAS自動反映は `GAS_GITHUB_SYNC.md` を参照する。
+
 ## Static Preview
 
 PowerShellまたはコマンドプロンプトで次を実行する。
