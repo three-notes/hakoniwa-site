@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-21",
+  "createdAt": "2026-06-21 08:34:30 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "謎の掘り出し物 / 大きい袋"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "駅の出口で、大きい袋を持った人を見かけた。何が入ってるのか気になったけど、帰り道で同じ形の袋を見たら、自分の荷物は増やしたくなくて、手に持つ位置を変えた。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "full",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "駅の外で見た大きい袋、気になってまだ目で追ってた"
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "どんな袋？ 中身わかる感じ？"
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "持ち手だけ太いやつ？ 近くで見るとでかいかも"
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "そう、口は見えなくて中身はわからなかった"
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "それ見たら、自分の荷物まで増やしたくなくなるやつ"
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "私も今、手がふさがるのいや。片方の袋だけにする"
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "うん、帰りはレジ袋をたたんでポケットに入れた"
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "ちゃんとしてる"
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "たたんだら少し小さくなって助かった。駅前で持ち歩くのはやめる"
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "あの袋の中身だけ、最後まで見えなかった"
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "そこは見えないまま帰るのがちょうどいいかも"
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "じゃあ私はお茶だけ持って先に改札行く"
+      }
+    ]
+  },
+  "noteMemo": {
+    "titleCandidate": "大きい袋を見かけた日",
+    "narrator": "片代",
+    "theme": "駅前で見かけた袋から、自分の荷物の持ち方が変わる",
+    "rememberedLine": "帰りはレジ袋をたたんでポケットに入れた"
+  }
+}
