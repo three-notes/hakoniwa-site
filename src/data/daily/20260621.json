@@ -1,15 +1,15 @@
 {
   "date": "2026-06-21",
-  "createdAt": "2026-06-21 22:06:26 +0900",
-  "eventOwner": "沙耶",
+  "createdAt": "2026-06-21 22:19:47 +0900",
+  "eventOwner": "瑠奈",
   "seed": {
-    "label": "片代の部屋 / 三人で"
+    "label": "入浴剤 / 占い"
   },
   "x": {
-    "hasPost": false,
-    "poster": null,
-    "handle": null,
-    "text": ""
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "入浴剤を開けたら、占いの紙が一枚入ってた。  \n先に紙を読もうとして手が濡れたから、いったんタオルで拭いた。  \nお湯はそのあと入れた。今日は紙より浴槽が先だった。"
   },
   "line": {
     "hasLine": true,
@@ -18,46 +18,46 @@
     "messages": [
       {
         "type": "message",
-        "speaker": "沙耶",
-        "body": "これ、机の上に出てた。誰のだっけ",
-        "reaction": null
-      },
-      {
-        "type": "message",
-        "speaker": "片代",
-        "body": "私の。さっき置いたままだった",
-        "reaction": null
-      },
-      {
-        "type": "message",
         "speaker": "瑠奈",
-        "body": "紙の端が折れてる。指でそろえたら見やすくなった",
+        "body": "入浴剤に占いの紙が入ってた、先に見つけた",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "うん、これなら読める",
+        "body": "え、紙まで入ってるの見せて",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "片代",
-        "body": "じゃあそのまま置いとく。あとは私が見る",
+        "body": "それ、まだ乾いてる？",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "瑠奈",
-        "body": "端だけ直したのに、ちょっと片付いた感じする",
+        "body": "ちょっと濡れたからタオルで拭いた。読む前に手が先にびしょっとした",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "先にお湯じゃなくて紙を見たんだ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "じゃあ占いの結果より手のほうが先に当たったね",
         "reaction": null
       }
     ]
   },
   "noteMemo": {
-    "titleCandidate": "片代の部屋で机の上を見た日",
-    "narrator": "沙耶",
-    "theme": "机の上に出ていた紙を見つけて、そろえて置き直す",
-    "rememberedLine": "これ、机の上に出てた。誰のだっけ"
+    "titleCandidate": "入浴剤の中の占いの紙",
+    "narrator": "瑠奈",
+    "theme": "入浴剤を開けたら占いの紙が出てきて、読む順番を少し入れ替えた",
+    "rememberedLine": "手が先にびしょっとした"
   }
 }
