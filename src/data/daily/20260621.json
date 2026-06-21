@@ -1,87 +1,63 @@
 {
   "date": "2026-06-21",
-  "createdAt": "2026-06-21 08:34:30 +0900",
-  "eventOwner": "片代",
+  "createdAt": "2026-06-21 22:05:13 +0900",
+  "eventOwner": "瑠奈",
   "seed": {
-    "label": "謎の掘り出し物 / 大きい袋"
+    "label": "駅前カフェ / 小さなポーチ"
   },
   "x": {
     "hasPost": true,
-    "poster": "片代",
-    "handle": "@katayo",
-    "text": "駅の出口で、大きい袋を持った人を見かけた。何が入ってるのか気になったけど、帰り道で同じ形の袋を見たら、自分の荷物は増やしたくなくて、手に持つ位置を変えた。"
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "駅前カフェで小さなポーチを見つけた。手のひらに乗るくらいで、レジ前でずっと見てしまった。入れるものはまだ決めてないけど、持ったまま帰るとバッグの中が軽いのか重いのか分からなくて、ちょっと変だった。"
   },
   "line": {
     "hasLine": true,
-    "mode": "full",
-    "title": "三人のトーク",
+    "mode": "mini",
+    "title": "いつものカフェ",
     "messages": [
       {
         "type": "message",
-        "speaker": "片代",
-        "body": "駅の外で見た大きい袋、気になってまだ目で追ってた"
+        "speaker": "瑠奈",
+        "body": "これ見つけた",
+        "reaction": null
       },
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "どんな袋？ 中身わかる感じ？"
-      },
-      {
-        "type": "message",
-        "speaker": "瑠奈",
-        "body": "持ち手だけ太いやつ？ 近くで見るとでかいかも"
+        "body": "え、見せて",
+        "reaction": null
       },
       {
         "type": "message",
         "speaker": "片代",
-        "body": "そう、口は見えなくて中身はわからなかった"
-      },
-      {
-        "type": "message",
-        "speaker": "沙耶",
-        "body": "それ見たら、自分の荷物まで増やしたくなくなるやつ"
+        "body": "小さいの？",
+        "reaction": null
       },
       {
         "type": "message",
         "speaker": "瑠奈",
-        "body": "私も今、手がふさがるのいや。片方の袋だけにする"
+        "body": "手のひらに乗る。レジ前でずっと見てた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "ほんとに小さいんだ",
+        "reaction": null
       },
       {
         "type": "message",
         "speaker": "片代",
-        "body": "うん、帰りはレジ袋をたたんでポケットに入れた"
-      },
-      {
-        "type": "message",
-        "speaker": "沙耶",
-        "body": "ちゃんとしてる"
-      },
-      {
-        "type": "message",
-        "speaker": "瑠奈",
-        "body": "たたんだら少し小さくなって助かった。駅前で持ち歩くのはやめる"
-      },
-      {
-        "type": "message",
-        "speaker": "片代",
-        "body": "あの袋の中身だけ、最後まで見えなかった"
-      },
-      {
-        "type": "message",
-        "speaker": "沙耶",
-        "body": "そこは見えないまま帰るのがちょうどいいかも"
-      },
-      {
-        "type": "message",
-        "speaker": "瑠奈",
-        "body": "じゃあ私はお茶だけ持って先に改札行く"
+        "body": "何入れるつもりだったの",
+        "reaction": null
       }
     ]
   },
   "noteMemo": {
-    "titleCandidate": "大きい袋を見かけた日",
-    "narrator": "片代",
-    "theme": "駅前で見かけた袋から、自分の荷物の持ち方が変わる",
-    "rememberedLine": "帰りはレジ袋をたたんでポケットに入れた"
+    "titleCandidate": "駅前カフェで見つけた小さなポーチ",
+    "narrator": "瑠奈",
+    "theme": "見つけた小物をその場で買って、入れるものをあとから考える",
+    "rememberedLine": "手のひらに乗る。レジ前でずっと見てた"
   }
 }
