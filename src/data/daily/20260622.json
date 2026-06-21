@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-22",
+  "createdAt": "2026-06-22 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "強風 / 待ち時間"
+  },
+  "x": {
+    "hasPost": false,
+    "poster": null,
+    "handle": null,
+    "text": ""
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "風つよい、前髪が邪魔",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "ほんとに外？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "こっちも待ってる。通路がバタバタしてる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "ベンチの端に座ったら少しまし、でも顔は負ける",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "何待ち？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "まだ来ないやつ？",
+        "reaction": null
+      }
+    ]
+  },
+  "noteMemo": {
+    "titleCandidate": "強風の待ち時間",
+    "narrator": "瑠奈",
+    "theme": "風の強い場所で待ちながら、小さく移動する",
+    "rememberedLine": "風が強くて、待ってる間に前髪が何回も顔に入った"
+  }
+}
