@@ -1,63 +1,63 @@
 {
   "date": "2026-06-21",
-  "createdAt": "2026-06-21 22:05:13 +0900",
-  "eventOwner": "瑠奈",
+  "createdAt": "2026-06-21 22:06:26 +0900",
+  "eventOwner": "沙耶",
   "seed": {
-    "label": "駅前カフェ / 小さなポーチ"
+    "label": "片代の部屋 / 三人で"
   },
   "x": {
-    "hasPost": true,
-    "poster": "瑠奈",
-    "handle": "@runa",
-    "text": "駅前カフェで小さなポーチを見つけた。手のひらに乗るくらいで、レジ前でずっと見てしまった。入れるものはまだ決めてないけど、持ったまま帰るとバッグの中が軽いのか重いのか分からなくて、ちょっと変だった。"
+    "hasPost": false,
+    "poster": null,
+    "handle": null,
+    "text": ""
   },
   "line": {
     "hasLine": true,
     "mode": "mini",
-    "title": "いつものカフェ",
+    "title": "三人のトーク",
     "messages": [
       {
         "type": "message",
-        "speaker": "瑠奈",
-        "body": "これ見つけた",
-        "reaction": null
-      },
-      {
-        "type": "message",
         "speaker": "沙耶",
-        "body": "え、見せて",
+        "body": "これ、机の上に出てた。誰のだっけ",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "片代",
-        "body": "小さいの？",
+        "body": "私の。さっき置いたままだった",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "瑠奈",
-        "body": "手のひらに乗る。レジ前でずっと見てた",
+        "body": "紙の端が折れてる。指でそろえたら見やすくなった",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "ほんとに小さいんだ",
+        "body": "うん、これなら読める",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "片代",
-        "body": "何入れるつもりだったの",
+        "body": "じゃあそのまま置いとく。あとは私が見る",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "端だけ直したのに、ちょっと片付いた感じする",
         "reaction": null
       }
     ]
   },
   "noteMemo": {
-    "titleCandidate": "駅前カフェで見つけた小さなポーチ",
-    "narrator": "瑠奈",
-    "theme": "見つけた小物をその場で買って、入れるものをあとから考える",
-    "rememberedLine": "手のひらに乗る。レジ前でずっと見てた"
+    "titleCandidate": "片代の部屋で机の上を見た日",
+    "narrator": "沙耶",
+    "theme": "机の上に出ていた紙を見つけて、そろえて置き直す",
+    "rememberedLine": "これ、机の上に出てた。誰のだっけ"
   }
 }
