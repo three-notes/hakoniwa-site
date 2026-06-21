@@ -1,14 +1,14 @@
 # GitHub Pages公開手順
 
-## 1. ローカルビルド確認
+## 1. GitHub Pages用ビルド
 
 通常のコマンドプロンプトで実行する。
 
 ```cmd
-C:\work\chatgpt\hakoniwa_site\build-astro.cmd
+C:\work\chatgpt\hakoniwa_site\build-pages.cmd
 ```
 
-`dist` フォルダが作られれば成功。
+`docs` フォルダが作られれば成功。
 
 ## 2. GitHubで空のリポジトリを作る
 
@@ -37,10 +37,12 @@ GitHubリポジトリで次を開く。
 Settings
 → Pages
 → Build and deployment
-→ Source: GitHub Actions
+→ Source: Deploy from a branch
+→ Branch: main
+→ Folder: /docs
 ```
 
-`.github/workflows/deploy-pages.yml` が自動でビルドと公開を行う。
+`main` ブランチの `docs` フォルダが公開される。
 
 ## 5. 公開確認
 
@@ -65,16 +67,16 @@ https://ユーザー名.github.io/
 ```cmd
 C:\work\chatgpt\hakoniwa_site\sync-drive-site-data.cmd
 cd /d C:\work\chatgpt\hakoniwa_site
-git add src\data\daily
+C:\work\chatgpt\hakoniwa_site\build-pages.cmd
+git add src\data\daily docs
 git commit -m "Update daily data"
 git push
 ```
 
-push後、GitHub Actionsが自動でサイトを再公開する。
+push後、GitHub Pagesが `docs` の内容を再公開する。
 
 ## 現時点の範囲
 
-- GitHubへのpushでサイトは自動公開される。
+- GitHubへのpushで `docs` の内容が公開される。
 - Google Driveからローカルへの同期は `sync-drive-site-data.cmd` で行う。
-- GASからGitHubへ直接JSONを送る完全自動化は、公開確認後に追加する。
-
+- GASからGitHubへ直接反映する完全自動化は、公開確認後に追加する。

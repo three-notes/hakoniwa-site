@@ -7,6 +7,7 @@ const base = process.env.PUBLIC_BASE_PATH
 
 export default defineConfig({
   base,
+  outDir: process.env.PUBLIC_OUT_DIR || "dist",
   vite: {
     cacheDir: "../.vite-cache/hakoniwa_site",
   },
