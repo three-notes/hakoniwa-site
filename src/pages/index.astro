@@ -197,6 +197,11 @@ const iconPathBySpeaker = {
                       {!mine && <span class="speaker-name">{message.speaker}</span>}
                       <p class:list={["bubble", mine ? "bubble-mine" : "bubble-other"]}>
                         {message.body}
+                        {message.reaction && (
+                          <span class="message-reaction" aria-label="表情">
+                            {message.reaction}
+                          </span>
+                        )}
                       </p>
                     </div>
                   </div>

@@ -28,8 +28,9 @@ src/data/daily/20260607.json
 
 - `line.hasLine: true` の最新日を、最新LINEとして表示する。
 - `line.mode` は `none` / `mini` / `full` のいずれか。
-- `line.messages[].type: "message"` は通常発言、`"sticker"` はテキストスタンプ。
-- スタンプは `line.messages[].body` に `（笑ってる丸）` のような文字列で保存する。
+- `line.messages[].type: "message"` は通常発言。本文は `body`、末尾の補助表情は `reaction` に保存する。
+- `reaction` は一般的な顔絵文字を1個だけ使用する。miniは会話全体で0～1個、fullは0～2個。
+- 旧データ互換のため `"sticker"` 表示も維持するが、新規生成では使用しない。
 - 当日にLINEがない場合は、直近のLINEを表示したままにする。
 - 表示文は `最終更新 1日前` のようにする。
 - 過去のLINEは内部データとして残すが、サイト表面では履歴化しない。

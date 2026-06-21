@@ -389,6 +389,14 @@ h3 {
   border-bottom-right-radius: 5px;
 }
 
+.message-reaction {
+  display: inline-block;
+  margin-left: 0.28em;
+  font-size: 1.22em;
+  line-height: 1;
+  vertical-align: -0.08em;
+}
+
 .section-heading {
   max-width: 680px;
   margin-bottom: 30px;
