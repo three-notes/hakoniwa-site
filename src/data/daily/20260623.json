@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-23",
+  "createdAt": "2026-06-23 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "電車待ち / 待ち時間"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "駅のホームで、瑠奈が足元の白線を見ながら、来ない電車を2回見た。  \n「まだ？」って言ったあと、スマホをしまって、改札の音だけ聞いてた。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "noteMemo": {
+    "titleCandidate": "ホームで2回見る",
+    "narrator": "片代",
+    "theme": "電車待ちのあいだに、見ていたものと言い方だけが少し先に進む",
+    "rememberedLine": "「まだ？」"
+  }
+}
