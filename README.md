@@ -87,7 +87,7 @@ C:\work\chatgpt\hakoniwa_site\start-preview.ps1 4328
 
 - 正史基準: `C:\work\chatgpt\GPTS参照設定_v2`
 - 初回SNS出力: `C:\work\chatgpt\blog_ops_daily\202606\20260605_sns_draft.md`
-- 初期トップ画像: `C:\work\chatgpt\GPTS参照設定\参考画像\curated\group_cafe_06.png`
+- 公式参考画像: `C:\work\chatgpt\project_control\content\reference_images\official`
 
 ## Next
 

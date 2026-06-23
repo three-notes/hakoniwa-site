@@ -1,4 +1,6 @@
 ---
+import { externalLinks } from "../siteConfig";
+
 const dailyModules = import.meta.glob("../data/daily/*.json", { eager: true });
 const dailyItems = Object.values(dailyModules)
   .map((module) => module.default)
@@ -245,6 +247,14 @@ const iconPathBySpeaker = {
               </article>
             ))}
           </div>
+          <p class="note-link">
+            週に一度くらい、少し長めのメモは
+            <a href={externalLinks.note} target="_blank" rel="noopener noreferrer">
+              note
+              <span>外部</span>
+            </a>
+            に置いています。
+          </p>
         </div>
       </section>
 
