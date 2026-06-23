@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-24",
+  "createdAt": "2026-06-24 08:34:30 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "待ち合わせ / 待ち時間"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "駅の改札前で少し早く着いた。ベンチの端でスマホを見てたけど、更新しても時間しか増えない。片代が来るまで、写真だけ一枚撮った。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "改札前で待ってる。写真だけ撮った",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "どれ？ 先に見せて",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "これ。時計とベンチ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "ベンチの端、座るとすべるやつ？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "うん、あそこ。水買ったから先に飲む",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "そこ、風が通ると長い",
+        "reaction": null
+      }
+    ]
+  },
+  "noteMemo": {
+    "titleCandidate": "改札前の写真",
+    "narrator": "沙耶",
+    "theme": "待ち合わせ前の改札前で、時間と写真だけが残る",
+    "rememberedLine": "更新しても時間しか増えない"
+  }
+}
