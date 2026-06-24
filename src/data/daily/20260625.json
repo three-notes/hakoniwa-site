@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-25",
+  "createdAt": "2026-06-25 08:34:30 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "入浴剤 / 保湿"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "入浴剤をひとつ買った。  \n保湿って書いてあるやつで、棚の前で少し迷って、字がいちばん大きいのを取った。  \n帰って袋を開けたら、箱の見た目は思ったより普通で、ちょっとだけ拍子抜けした。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "これ買った",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "入浴剤？見せて",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "うん、保湿ってやつ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "字でかいの選んだんだ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "棚の前で迷った顔してそう",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "迷った、でも読めた方にした",
+        "reaction": null
+      }
+    ]
+  },
+  "noteMemo": {
+    "titleCandidate": "字が大きい入浴剤",
+    "narrator": "沙耶",
+    "theme": "棚の前で迷って、字の大きい方を取る",
+    "rememberedLine": "棚の前で少し迷って、字がいちばん大きいのを取った"
+  }
+}
