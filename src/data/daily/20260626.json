@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-26",
+  "createdAt": "2026-06-26 08:34:30 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "くせ毛"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "駅前の鏡で前髪がはねてるのを見た。\n\n直すつもりで開けたリップが、先に困らせてきた。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "evening_commute",
+    "characterLocation": "沙耶=退勤後、駅前または帰り道 / 片代=退勤後、乗り換え前後または駅前 / 瑠奈=退勤後、駅前コンビニまたは電車内",
+    "possibleSmallEvents": "買い忘れ / リップ / のど飴 / グミ / ドラッグストア / バッグ / ハンカチ / 折りたたみ傘",
+    "cafeAvailability": "短時間なら可",
+    "lineAvailability": "none",
+    "xPostLikelihood": "中"
+  },
+  "noteMemo": {
+    "titleCandidate": "鏡で前髪がはねてた",
+    "narrator": "片代",
+    "theme": "駅前で鏡を見たら、身だしなみの崩れに先に気づいたこと",
+    "rememberedLine": "駅前の鏡で前髪がはねてるのを見た。"
+  }
+}
