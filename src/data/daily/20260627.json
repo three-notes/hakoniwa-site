@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-27",
+  "createdAt": "2026-06-27 08:34:30 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "床 / 小さなポーチ"
+  },
+  "x": {
+    "hasPost": false,
+    "poster": null,
+    "handle": null,
+    "text": ""
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "トートの底でポーチ迷子",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "何探してるの",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "小さいやつ？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "そう、小さなポーチ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "床に置いたまま？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "置いたまま探すの難しいね",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "after_work",
+    "characterLocation": "沙耶=退勤後、駅前カフェか買い物先 / 片代=退勤後、駅前カフェか買い物先 / 瑠奈=退勤後、駅前カフェかコンビニ",
+    "possibleSmallEvents": "駅前カフェ / ファミレス / 買い物 / メニュー / 短い雑談 / 本 / 傘 / バッグ",
+    "cafeAvailability": "長めに可",
+    "lineAvailability": "可",
+    "xPostLikelihood": "低",
+    "seasonContext": "梅雨から初夏",
+    "weatherContext": "雨上がり",
+    "temperatureFeel": "少し蒸す",
+    "wardrobeContext": "沙耶=半袖ブラウス + ネイビーロングスカート + 耳掛け + 雨の日用ローファー + ネイビートート / 片代=ニット + ロングスカート + ハーフアップ + フラットシューズ + 小さめショルダー / 瑠奈=ビッグTシャツ + ナイロン台形スカート + 前髪だけピン留め + 黒スニーカー + キャンバストート"
+  },
+  "noteMemo": {
+    "titleCandidate": "トートの底でポーチ迷子",
+    "narrator": "沙耶",
+    "theme": "床に置いた荷物を探しているのに、先にスマホを開いてしまうずれ",
+    "rememberedLine": "先にスマホを開いて、見つけた気になってる。"
+  }
+}
