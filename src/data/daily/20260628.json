@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-28",
+  "createdAt": "2026-06-28 08:34:30 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "靴下"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "靴下を直したつもりだったのに、片方だけまだ上がりきってなかった。  \n出る前に一回止まるの、朝の私あるあるです。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "靴下片方だけ変",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "もう見た。ほんとだ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "朝いちでそれは地味に困る",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "直したのに片方だけ残ってた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "先に上げきろう",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "いまやる",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "early_morning",
+    "characterLocation": "沙耶=自宅、朝準備中 / 片代=自宅、身支度と持ち物確認 / 瑠奈=自宅、起床直後",
+    "possibleSmallEvents": "服装ミス / 前髪 / バッグの中身 / 朝食 / ハンカチ / 折りたたみ傘 / 靴擦れ / スキンケア",
+    "cafeAvailability": "基本不可",
+    "lineAvailability": "可",
+    "xPostLikelihood": "中",
+    "seasonContext": "梅雨から初夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=ライトグレーカーディガン + ロングスカート + 低めポニーテール + 白スニーカー + ネイビートート / 片代=半袖ブラウス + 軽いロングスカート + ハーフアップ + フラットシューズ + 小さめショルダー / 瑠奈=半袖シャツ + ナイロン台形スカート + 雑なちょんまげ + 黒スニーカー + キャンバストート",
+    "wardrobeContext": "沙耶=ライトグレーカーディガン + ロングスカート + 低めポニーテール + 白スニーカー + ネイビートート / 片代=半袖ブラウス + 軽いロングスカート + ハーフアップ + フラットシューズ + 小さめショルダー / 瑠奈=半袖シャツ + ナイロン台形スカート + 雑なちょんまげ + 黒スニーカー + キャンバストート"
+  },
+  "noteMemo": {
+    "titleCandidate": "片方だけ上がりきらない朝",
+    "narrator": "片代",
+    "theme": "身だしなみの小さい崩れは、直したつもりでも朝の動きの途中で見つかる",
+    "rememberedLine": "靴下を直したつもりだったのに、片方だけまだ上がりきってなかった。"
+  }
+}
