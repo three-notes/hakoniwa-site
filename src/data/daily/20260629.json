@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-29",
+  "createdAt": "2026-06-29 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "机片付け / 夜"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "机を片付けるつもりで広げたのに、先に買ったもの並べてた。\n\n机はまだだけど、今日はこっちで勝ちにします。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "机の上、先に広げた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "片付ける前に？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "うん、買ったやつ並べた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "袋が先に終わってるね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "机はまだ空いてない",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "じゃあ袋だけ戻そ",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "night_home",
+    "characterLocation": "沙耶=自宅、部屋着で夜の用事中 / 片代=自宅、明日の準備中 / 瑠奈=自宅、買ったものを広げている",
+    "possibleSmallEvents": "お茶 / 洗濯物 / 読書 / 動画 / 明日の準備 / 寝落ち / 前髪 / イヤホン",
+    "cafeAvailability": "状況次第",
+    "lineAvailability": "可",
+    "xPostLikelihood": "中",
+    "seasonContext": "梅雨から初夏",
+    "weatherContext": "外の天気はあまり関係ない",
+    "temperatureFeel": "少し蒸す",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=長袖Tシャツ + 大きめカーディガン + 低めポニーテール + バレエシューズ + 通勤A4バッグ / 片代=半袖ブラウス + 軽いロングスカート + ハーフアップ + ベージュパンプス + レザートート / 瑠奈=半袖シャツ + ナイロン台形スカート + 雑なちょんまげ + 黒スニーカー + ボディバッグ",
+    "wardrobeContext": "沙耶=長袖Tシャツ + 大きめカーディガン + 低めポニーテール + バレエシューズ + 通勤A4バッグ / 片代=半袖ブラウス + 軽いロングスカート + ハーフアップ + ベージュパンプス + レザートート / 瑠奈=半袖シャツ + ナイロン台形スカート + 雑なちょんまげ + 黒スニーカー + ボディバッグ"
+  },
+  "noteMemo": {
+    "titleCandidate": "机より先に並べた",
+    "narrator": "瑠奈",
+    "theme": "小さい達成を先に勝ちとして扱う",
+    "rememberedLine": "机を片付けるつもりで広げたのに、先に買ったもの並べてた。"
+  }
+}
