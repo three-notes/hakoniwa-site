@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-30",
+  "createdAt": "2026-06-30 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "変な広告"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "のど飴を買いに入ったのに、変な広告見てグミを手に取ってた。\n\n広告の勝ち方が雑。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "これ見て",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "どこで？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "駅前のコンビニ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "のど飴の手でグミ持ってる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "そう、そこでずれた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "広告が先に押したね",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "evening_commute",
+    "characterLocation": "沙耶=退勤後、駅前または帰り道 / 片代=退勤後、乗り換え前後または駅前 / 瑠奈=退勤後、駅前コンビニまたは電車内",
+    "possibleSmallEvents": "買い忘れ / リップ / のど飴 / グミ / ドラッグストア / バッグ / 前髪 / イヤホン",
+    "cafeAvailability": "短時間なら可",
+    "lineAvailability": "可",
+    "xPostLikelihood": "中",
+    "seasonContext": "梅雨から初夏",
+    "weatherContext": "くもり",
+    "temperatureFeel": "少し蒸す",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=白Tシャツ + ストレートデニムパンツ + 耳掛け + 低めパンプス + 生成り布トート / 片代=薄手リブニット + プリーツスカート + 低めポニー + ローファー + 通勤バッグ / 瑠奈=無地カットソー + ストレッチパンツ + 前髪だけピン留め + 白スニーカー + リュック",
+    "wardrobeContext": "沙耶=白Tシャツ + ストレートデニムパンツ + 耳掛け + 低めパンプス + 生成り布トート / 片代=薄手リブニット + プリーツスカート + 低めポニー + ローファー + 通勤バッグ / 瑠奈=無地カットソー + ストレッチパンツ + 前髪だけピン留め + 白スニーカー + リュック"
+  },
+  "noteMemo": {
+    "titleCandidate": "のど飴を買いに入ってグミを持った",
+    "narrator": "瑠奈",
+    "theme": "友人に見せたくなる、買うつもりが少しずれる",
+    "rememberedLine": "のど飴を買いに入ったのに、変な広告見てグミを手に取ってた。"
+  }
+}
