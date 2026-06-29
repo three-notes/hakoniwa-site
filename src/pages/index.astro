@@ -13,6 +13,7 @@ const stories = Object.values(storyModules)
   .sort((a, b) => b.date.localeCompare(a.date));
 
 const assetPath = (path) => path.replace(/^\//, "");
+const stylePath = `${assetPath("styles.css")}?v=20260630-1`;
 
 const latestDaily = dailyItems.at(-1);
 const latestLineDaily = [...dailyItems].reverse().find((item) => item.line?.hasLine);
@@ -117,7 +118,7 @@ const iconPathBySpeaker = {
       href="https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href={assetPath("styles.css")} />
+    <link rel="stylesheet" href={stylePath} />
   </head>
   <body>
     <header class="site-header" aria-label="サイトヘッダー">

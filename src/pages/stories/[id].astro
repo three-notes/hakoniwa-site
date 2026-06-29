@@ -17,6 +17,7 @@ export function getStaticPaths() {
 
 const { story, previousStory, nextStory } = Astro.props;
 const assetPath = (path) => `../../${path.replace(/^\//, "")}`;
+const stylePath = `${assetPath("styles.css")}?v=20260630-1`;
 const storyPath = (targetStory) => `../${targetStory.id}/`;
 ---
 
@@ -33,7 +34,7 @@ const storyPath = (targetStory) => `../${targetStory.id}/`;
       href="https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href={assetPath("styles.css")} />
+    <link rel="stylesheet" href={stylePath} />
   </head>
   <body>
     <header class="site-header" aria-label="サイトヘッダー">
