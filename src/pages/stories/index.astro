@@ -1,0 +1,73 @@
+---
+const storyModules = import.meta.glob("../../data/stories/*.json", { eager: true });
+const stories = Object.values(storyModules)
+  .map((module) => module.default)
+  .filter((story) => story.status !== "draft")
+  .sort((a, b) => b.date.localeCompare(a.date));
+
+const assetPath = (path) => `../${path.replace(/^\//, "")}`;
+const storyPath = (story) => `${story.id}/`;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>書き足した日たち | 三人ノート</title>
+    <meta
+      name="description"
+      content="三人ノートに置いた、日常の出来事を少しだけ文章にした日の一覧です。"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href={assetPath("styles.css")} />
+  </head>
+  <body>
+    <header class="site-header" aria-label="サイトヘッダー">
+      <a class="brand" href="../#top" aria-label="三人ノート トップへ">
+        <span class="brand-mark">三</span>
+        <span>三人ノート</span>
+      </a>
+      <nav class="nav" aria-label="メインナビゲーション">
+        <a href="../#today">今日のこと</a>
+        <a href="../#line">トーク</a>
+        <a href="../#characters">書いてる人</a>
+        <a href="./">置き場</a>
+        <a href="../#about">この場所</a>
+      </nav>
+    </header>
+
+    <main class="reading-page">
+      <section class="reading-hero">
+        <p class="eyebrow">なんでもない日を、少しだけ書き足して</p>
+        <h1>書き足した日たち</h1>
+        <p>
+          日常の出来事を、少しだけ文章にして置いています。
+          最新のものから、ゆっくり見返せるように並べました。
+        </p>
+      </section>
+
+      <section class="story-index" aria-label="書き足した日の一覧">
+        {stories.map((story) => (
+          <article class="story-index-card">
+            <img src={assetPath("assets/story_shopping_back.png")} alt="" />
+            <div>
+              <div class="story-meta">
+                <span>{story.date}</span>
+                <span>{story.place}</span>
+              </div>
+              <h2>{story.title}</h2>
+              <p>{story.summary}</p>
+              <a class="story-read-link" href={storyPath(story)}>この日のことを読む</a>
+            </div>
+          </article>
+        ))}
+      </section>
+    </main>
+  </body>
+</html>
