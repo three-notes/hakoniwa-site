@@ -13,7 +13,7 @@ const stories = Object.values(storyModules)
   .sort((a, b) => b.date.localeCompare(a.date));
 
 const assetPath = (path) => path.replace(/^\//, "");
-const stylePath = `${assetPath("styles.css")}?v=20260630-1`;
+const stylePath = `${assetPath("styles.css")}?v=20260630-2`;
 
 const latestDaily = dailyItems.at(-1);
 const latestLineDaily = [...dailyItems].reverse().find((item) => item.line?.hasLine);

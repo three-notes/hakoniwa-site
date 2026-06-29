@@ -268,11 +268,14 @@ h3 {
     "story story";
   gap: clamp(18px, 2.5vw, 30px);
   align-items: start;
+  min-width: 0;
   padding: 0 clamp(18px, 5vw, 58px) clamp(44px, 7vw, 82px);
 }
 
 .paper-card {
   position: relative;
+  width: 100%;
+  min-width: 0;
   padding: clamp(20px, 2.8vw, 30px);
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.82), rgba(255, 250, 242, 0.98)),
@@ -301,6 +304,7 @@ h3 {
   grid-area: talk;
   display: grid;
   gap: 18px;
+  min-width: 0;
 }
 
 .story-feature {
@@ -311,6 +315,7 @@ h3 {
   grid-area: side;
   display: grid;
   gap: clamp(18px, 2.2vw, 24px);
+  min-width: 0;
 }
 
 .wide-card {
@@ -933,6 +938,7 @@ h3 {
 
 .section-heading {
   max-width: 720px;
+  min-width: 0;
   margin-bottom: 28px;
 }
 
@@ -1115,10 +1121,9 @@ code {
 
   .note-dashboard {
     grid-template-areas:
-      "x"
       "talk"
-      "story"
-      "archive";
+      "side"
+      "story";
   }
 
   .hero-photo {
