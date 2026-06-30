@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-01",
+  "createdAt": "2026-07-01 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "変な看板 / 友人の一言"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "駅前コンビニで飲み物買うつもりだったのに、看板を先に撮ってた。  \n友達に見せたくなると、朝の手順がひとつ増える。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "これ見て 08:41",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "駅前コンビニ前 08:41",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "看板が変 08:42",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "今見た。ほんと変だね 08:43",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "文字多い？ 08:44",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "飲み物より先に撮った 08:45",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": null,
+        "sticker": "見てる丸",
+        "body": "（見てる丸）"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "沙耶=通勤中、改札またはホーム / 片代=通勤中、乗り換え前後 / 瑠奈=通勤中、駅前コンビニまたは電車内",
+    "possibleSmallEvents": "改札 / ホーム / コンビニ / 傘 / イヤホン / 前髪 / グミ / 動画",
+    "cafeAvailability": "状況次第",
+    "lineAvailability": "可",
+    "xPostLikelihood": "中",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=白ブラウス + ネイビーフレアスカート + 耳掛け + 白スニーカー + ネイビートート / 片代=ベージュブラウス + 控えめロングスカート + 低めポニー + フラットシューズ + 小さめショルダー / 瑠奈=カーディガン + 黒パンツ + 前髪だけピン留め + ランニングシューズ + キャンバストート",
+    "wardrobeContext": "沙耶=白ブラウス + ネイビーフレアスカート + 耳掛け + 白スニーカー + ネイビートート / 片代=ベージュブラウス + 控えめロングスカート + 低めポニー + フラットシューズ + 小さめショルダー / 瑠奈=カーディガン + 黒パンツ + 前髪だけピン留め + ランニングシューズ + キャンバストート"
+  },
+  "noteMemo": {
+    "titleCandidate": "看板の前で止まる朝",
+    "narrator": "瑠奈",
+    "theme": "買う前に撮ってしまう朝のズレ",
+    "rememberedLine": "飲み物より先に撮った"
+  }
+}
