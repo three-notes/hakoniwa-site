@@ -1,10 +1,13 @@
 {
   "id": "20260630_story002",
   "date": "2026-06-30",
-  "title": "型番より先に丸い",
+  "title": "丸かったことだけ覚えてる",
   "place": "沙耶の部屋と駅前の家電量販店",
   "status": "ready",
   "summary": "玄関の電球が切れた沙耶が、型番を忘れたまま売り場で固まる。三人で一度戻って、今度こそ小さな文字まで写真に残す日。",
+  "image": "assets/story_lightbulb_exchange.png",
+  "imageAlt": "天井の照明へ手を伸ばして電球を交換している写真",
+  "imagePosition": "center 12%",
   "source": "C:\\work\\chatgpt\\project_control\\content\\stories\\20260630_story002.txt",
   "paragraphs": [
     "休日の午後。",

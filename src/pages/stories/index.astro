@@ -6,8 +6,10 @@ const stories = Object.values(storyModules)
   .sort((a, b) => b.date.localeCompare(a.date));
 
 const assetPath = (path) => `../${path.replace(/^\//, "")}`;
-const stylePath = `${assetPath("styles.css")}?v=20260630-1`;
+const stylePath = `${assetPath("styles.css")}?v=20260630-4`;
 const storyPath = (story) => `${story.id}/`;
+const defaultStoryImage = "assets/story_shopping_back.png";
+const storyImagePath = (story) => assetPath(story.image ?? defaultStoryImage);
 ---
 
 <!doctype html>
@@ -56,7 +58,11 @@ const storyPath = (story) => `${story.id}/`;
       <section class="story-index" aria-label="書き足した日の一覧">
         {stories.map((story) => (
           <article class="story-index-card">
-            <img src={assetPath("assets/story_shopping_back.png")} alt="" />
+            <img
+              src={storyImagePath(story)}
+              alt={story.imageAlt ?? ""}
+              style={story.imagePosition ? `object-position: ${story.imagePosition}` : undefined}
+            />
             <div>
               <div class="story-meta">
                 <span>{story.date}</span>

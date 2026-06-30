@@ -17,8 +17,10 @@ export function getStaticPaths() {
 
 const { story, previousStory, nextStory } = Astro.props;
 const assetPath = (path) => `../../${path.replace(/^\//, "")}`;
-const stylePath = `${assetPath("styles.css")}?v=20260630-1`;
+const stylePath = `${assetPath("styles.css")}?v=20260630-4`;
 const storyPath = (targetStory) => `../${targetStory.id}/`;
+const defaultStoryImage = "assets/story_shopping_back.png";
+const storyImagePath = (story) => assetPath(story.image ?? defaultStoryImage);
 ---
 
 <!doctype html>
@@ -54,13 +56,13 @@ const storyPath = (targetStory) => `../${targetStory.id}/`;
     <main class="reading-page">
       <article class="reading-paper">
         <a class="back-link" href="../">書き足した日たちへ戻る</a>
-        <div class="story-meta">
-          <span>{story.date}</span>
-          <span>{story.place}</span>
-        </div>
         <h1>{story.title}</h1>
-        <p class="reading-lead">{story.summary}</p>
-        <img class="reading-image" src={assetPath("assets/story_shopping_back.png")} alt="" />
+        <img
+          class="reading-image"
+          src={storyImagePath(story)}
+          alt={story.imageAlt ?? ""}
+          style={story.imagePosition ? `object-position: ${story.imagePosition}` : undefined}
+        />
         <div class="reading-body">
           {story.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
         </div>

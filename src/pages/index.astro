@@ -13,7 +13,9 @@ const stories = Object.values(storyModules)
   .sort((a, b) => b.date.localeCompare(a.date));
 
 const assetPath = (path) => path.replace(/^\//, "");
-const stylePath = `${assetPath("styles.css")}?v=20260630-3`;
+const stylePath = `${assetPath("styles.css")}?v=20260630-4`;
+const defaultStoryImage = "assets/story_shopping_back.png";
+const storyImagePath = (story) => assetPath(story.image ?? defaultStoryImage);
 
 const latestDaily = dailyItems.at(-1);
 const latestLineDaily = [...dailyItems].reverse().find((item) => item.line?.hasLine);
@@ -274,7 +276,12 @@ const iconPathBySpeaker = {
           {
             latestStory ? (
               <>
-                <img class="story-thumb" src={assetPath("assets/story_shopping_back.png")} alt="買い物帰りの後ろ姿の写真" />
+                <img
+                  class="story-thumb"
+                  src={storyImagePath(latestStory)}
+                  alt={latestStory.imageAlt ?? ""}
+                  style={latestStory.imagePosition ? `object-position: ${latestStory.imagePosition}` : undefined}
+                />
                 <div class="story-meta">
                   <span>{latestStory.date}</span>
                   <span>{latestStory.place}</span>
