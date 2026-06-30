@@ -13,7 +13,7 @@ const stories = Object.values(storyModules)
   .sort((a, b) => b.date.localeCompare(a.date));
 
 const assetPath = (path) => path.replace(/^\//, "");
-const stylePath = `${assetPath("styles.css")}?v=20260630-2`;
+const stylePath = `${assetPath("styles.css")}?v=20260630-3`;
 
 const latestDaily = dailyItems.at(-1);
 const latestLineDaily = [...dailyItems].reverse().find((item) => item.line?.hasLine);
@@ -64,28 +64,28 @@ const reactionPresentation = {
 
 const characters = [
   {
-    roman: "Asagiri Saya",
+    introBy: "瑠奈より",
     name: "朝霧沙耶",
     shortName: "沙耶",
     imageClass: "profile-saya",
     body:
-      "予定を決めるときは少し慎重。でも、二人に押されると案外ちゃんと楽しむ。写真を見返してから、あとで小さく感想を足す係。",
+      "沙耶は、ちゃんとしようとして少し背筋が伸びる人。でも安心すると、いちばん柔らかく笑う。褒めるとすぐ照れるから、そこはもう少し慣れてほしい。",
   },
   {
-    roman: "Itsumi Katayo",
+    introBy: "沙耶より",
     name: "逸見片代",
     shortName: "片代",
     imageClass: "profile-katayo",
     body:
-      "気づいたことを短く残す係。新しいものや季節の変化を、すぐ決めずに少し眺める。たまに瑠奈の勢いへ巻き込まれる。",
+      "片代は、気づく前に気づいてくれる人。みんなが楽にいられるように、いつも少しだけ先に動いている。でも自分のことになると急に迷うから、そこは少し可愛い。",
   },
   {
-    roman: "Yumemi Runa",
+    introBy: "片代より",
     name: "夢見瑠奈",
     shortName: "瑠奈",
     imageClass: "profile-runa",
     body:
-      "面白そうなものを先に見つける係。普通の予定を少しだけ妙な遊びに変える。写真の中ではだいたい一番先に動いている。",
+      "瑠奈は、面白そうと思ったら先に足が動く人。失敗しても、なぜか最後には笑い話にしてしまう。気づいたら周りまで巻き込まれていて、でも大事なことは雑にしない。",
   },
 ];
 
@@ -140,10 +140,10 @@ const iconPathBySpeaker = {
       <section class="intro-board" aria-labelledby="hero-title">
         <div class="hero-copy-card">
           <p class="eyebrow">三人のトークと、わたしたちのメモ。</p>
-          <h1 id="hero-title">あとで見返したくなる、三人のトークとメモ。</h1>
+          <h1 id="hero-title">あとで見返したくなる、三人のノート。</h1>
           <p>
-            同じ景色を見て、違うことを感じて、それを言葉にして残す場所。
-            ゆるく、まっすぐに、私たちのペースで続いていきます。
+            カフェで話したこと、帰り道に笑ったこと、あとから少し思い出したこと。
+            三人で過ごした日を、少しずつここに残しています。
           </p>
           <div class="hero-actions" aria-label="主要リンク">
             <a class="button primary" href="#line">トークを見る</a>
@@ -223,7 +223,7 @@ const iconPathBySpeaker = {
         <div class="side-stack">
           <article id="today" class:list={["paper-card", "x-card", !todayPost.hasPost && "post-empty"]} aria-labelledby="today-title">
           <div class="card-title-row">
-            <p class="eyebrow">今日のXポスト</p>
+            <p class="eyebrow">今日のひとこと</p>
             <span class="x-mark">X</span>
           </div>
           <div class="post-author">
@@ -248,7 +248,7 @@ const iconPathBySpeaker = {
             <div class="card-title-row">
               <div>
                 <p class="eyebrow">ノートの置き場</p>
-                <h2 id="sns-title">最近置いたもの</h2>
+                <h2 id="sns-title">最近残したもの</h2>
               </div>
               <span class="clip-mark">⌘</span>
             </div>
@@ -280,7 +280,7 @@ const iconPathBySpeaker = {
                   <span>{latestStory.place}</span>
                 </div>
                 <h2 id="stories-title">{latestStory.title}</h2>
-                <p>日常の出来事を、少しだけ文章にして置いています。</p>
+                <p>三人で過ごした日のことを、少し長めに書いています。</p>
                 <div class="story-actions">
                   <a class="story-read-link" href={storyPath(latestStory)}>この日のことを読む</a>
                   <a class="text-link" href="stories/">書き足した日を読む</a>
@@ -289,7 +289,7 @@ const iconPathBySpeaker = {
             ) : (
               <>
                 <h2 id="stories-title">置き場を準備中</h2>
-                <p>日常の出来事を、少しだけ文章にして置いていきます。</p>
+                <p>三人で過ごした日のことを、少し長めに書いています。</p>
               </>
             )
           }
@@ -300,15 +300,15 @@ const iconPathBySpeaker = {
       <section id="characters" class="section character-section" aria-labelledby="characters-title">
         <div class="section-inner">
           <div class="section-heading">
-            <p class="eyebrow">書いている三人を紹介します</p>
-            <h2 id="characters-title">顔は少しだけ、空気はそのまま。</h2>
+            <p class="eyebrow">書いている三人</p>
+            <h2 id="characters-title">書いている三人のこと</h2>
           </div>
           <div class="character-grid">
             {characters.map((character) => (
               <article class="character-card">
                 <div class:list={["profile-photo", character.imageClass]} aria-hidden="true"></div>
                 <div>
-                  <p class="character-kana">{character.roman}</p>
+                  <p class="character-kana">{character.introBy}</p>
                   <h3>{character.shortName}</h3>
                   <p>{character.body}</p>
                 </div>
