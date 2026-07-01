@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-02",
+  "createdAt": "2026-07-02 08:34:30 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "社員証"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "職場で社員証を出したのに、首から下げたままポケットを探してた。\n\nもう入れるのに、手だけ先に迷子。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "work_afternoon",
+    "characterLocation": "沙耶=職場、午後の作業中 / 片代=職場、午後の連絡確認中 / 瑠奈=職場、午後の仕事中",
+    "possibleSmallEvents": "眠気 / メモ / 予定 / 水分補給 / レシート / 前髪 / イヤホン / グミ",
+    "cafeAvailability": "基本不可",
+    "lineAvailability": "none",
+    "xPostLikelihood": "低から中",
+    "seasonContext": "夏",
+    "weatherContext": "夕方も暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=白Tシャツ + ストレートデニムパンツ + クリップ留め + 白スニーカー + ネイビートート / 片代=薄手リブニット + プリーツスカート + 軽く整えた髪 + フラットシューズ + 小さめショルダー / 瑠奈=無地カットソー + ストレッチパンツ + 耳掛け + ランニングシューズ + キャンバストート",
+    "wardrobeContext": "沙耶=白Tシャツ + ストレートデニムパンツ + クリップ留め + 白スニーカー + ネイビートート / 片代=薄手リブニット + プリーツスカート + 軽く整えた髪 + フラットシューズ + 小さめショルダー / 瑠奈=無地カットソー + ストレッチパンツ + 耳掛け + ランニングシューズ + キャンバストート"
+  },
+  "noteMemo": {
+    "titleCandidate": "社員証を出したあとに探していた",
+    "narrator": "瑠奈",
+    "theme": "仕事中の小さい手順のズレ",
+    "rememberedLine": "首から下げたままポケットを探してた。"
+  }
+}
