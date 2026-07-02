@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-03",
+  "createdAt": "2026-07-03 08:34:30 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "靴擦れ"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "駅前まで来たのに、ローファーが当たって歩き方が落ち着かない。  \n鞄まで重くて、帰る前から足だけ先に疲れてる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "evening_commute",
+    "characterLocation": "沙耶=退勤後、駅前または帰り道 / 片代=退勤後、乗り換え前後または駅前 / 瑠奈=退勤後、駅前コンビニまたは電車内",
+    "possibleSmallEvents": "買い忘れ / リップ / のど飴 / グミ / ドラッグストア / バッグ / 本 / 傘",
+    "cafeAvailability": "短時間なら可",
+    "lineAvailability": "none",
+    "xPostLikelihood": "中",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "少し蒸す",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "23",
+    "wardrobeContext": "沙耶=淡ブルーブラウス + ライトグレーカーディガン + 耳掛け + ローファー + ベージュショルダー / 片代=リブニット + プリーツスカート + 低めポニー + 白スニーカー + キャンバストート / 瑠奈=ビッグTシャツ + イージーパンツ + 前髪だけピン留め + ローファー + ナイロンショルダー"
+  },
+  "noteMemo": {
+    "titleCandidate": "駅前で靴が当たった",
+    "narrator": "沙耶",
+    "theme": "退勤後の身だしなみの小さい崩れ",
+    "rememberedLine": "駅前まで来たのに、ローファーが当たって歩き方が落ち着かない。"
+  }
+}
