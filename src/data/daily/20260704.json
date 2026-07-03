@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-04",
+  "createdAt": "2026-07-04 08:34:30 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "駅前の謎POP"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "駅前のコンビニで飲み物買うつもりだったのに、謎POP読んで別の棚見てた。  \n手、案内に弱い。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "駅で見るだけの朝",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "駅前でこれ見た",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "どれ？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "コンビニのPOP。飲み物の前",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "先に読んだ顔してる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "読んだら、飲み物より先に別の棚いった",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "POPに連れてかれてる",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "after_work",
+    "characterLocation": "沙耶=退勤後、駅前カフェか買い物先 / 片代=退勤後、駅前カフェか買い物先 / 瑠奈=退勤後、駅前カフェかコンビニ",
+    "possibleSmallEvents": "駅前カフェ / ファミレス / 買い物 / メニュー / 短い雑談 / 本 / 傘 / バッグ",
+    "cafeAvailability": "長めに可",
+    "lineAvailability": "可",
+    "xPostLikelihood": "中から高",
+    "seasonContext": "夏",
+    "weatherContext": "晴れ",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=半袖ブラウス + ネイビーロングスカート + 耳掛け + ローファー + ベージュショルダー / 片代=ニット + ロングスカート + 低めポニー + 白スニーカー + キャンバストート / 瑠奈=ビッグTシャツ + ナイロン台形スカート + 前髪だけピン留め + 白スニーカー + ナイロンショルダー",
+    "wardrobeContext": "沙耶=半袖ブラウス + ネイビーロングスカート + 耳掛け + ローファー + ベージュショルダー / 片代=ニット + ロングスカート + 低めポニー + 白スニーカー + キャンバストート / 瑠奈=ビッグTシャツ + ナイロン台形スカート + 前髪だけピン留め + 白スニーカー + ナイロンショルダー"
+  },
+  "noteMemo": {
+    "titleCandidate": "駅前のPOPに寄り道した",
+    "narrator": "沙耶",
+    "theme": "予定より先に目が動く",
+    "rememberedLine": "手、案内に弱い。"
+  }
+}
