@@ -1,57 +1,51 @@
 {
   "date": "2026-07-04",
-  "createdAt": "2026-07-04 19:16:27 +0900",
-  "eventOwner": "沙耶",
+  "createdAt": "2026-07-04 19:25:37 +0900",
+  "eventOwner": "瑠奈",
   "seed": {
     "label": ""
   },
   "x": {
     "hasPost": true,
-    "poster": "沙耶",
-    "handle": "@saya",
-    "text": "手帳で明日の持ち物を見て、通勤バッグの横にハンカチ並べてた。今日はここまでで十分にします、準備って並べた時点でちょっと終わった顔をする。"
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "駅前で広告を二度見してたら、電車を一本遅らせた。  \n朝の私、広告のほうが先に乗ってた。"
   },
   "line": {
     "hasLine": true,
-    "mode": "mini",
+    "mode": "full",
     "title": "三人のトーク",
     "messages": [
       {
         "type": "message",
-        "speaker": "沙耶",
-        "body": "これ見て",
+        "speaker": "瑠奈",
+        "body": "駅前で広告を二度見してたら、電車を一本遅らせた",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "手帳の横にバッグとハンカチ並べた",
+        "body": "笑　それある、見たらもう止まるやつ",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "片代",
-        "body": "並べた時点でもう持ってる感じするね",
+        "body": "OK、朝はそういうのある",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "瑠奈",
-        "body": "ハンカチだけ先に出てるの、えらい",
-        "reaction": null
-      },
-      {
-        "type": "message",
-        "speaker": "沙耶",
-        "body": "いったんここで止める",
+        "body": "次ので行く",
         "reaction": null
       }
     ]
   },
   "dailyContext": {
-    "timeSlot": "night_home",
-    "characterLocation": "沙耶=沙耶の部屋",
-    "possibleSmallEvents": "明日の持ち物を手帳で確認してバッグの横に並べる / 確認したはずのハンカチを机に置いたままにする / 明日の持ち物を手帳で確認してバッグの横に並べるを今日はここまでにする",
+    "timeSlot": "morning_commute",
+    "characterLocation": "瑠奈=通勤中(駅・道)",
+    "possibleSmallEvents": "駅の広告が気になって二度見する / 見入って電車を一本遅らせる / 駅の広告が気になって二度見するを今日はここまでにする",
     "cafeAvailability": "基本なし",
     "lineAvailability": "可",
     "xPostLikelihood": "中",
@@ -61,7 +55,7 @@
     "weatherSource": "open-meteo",
     "weatherLocation": "東京付近",
     "temperatureC": "23.9",
-    "wardrobeContext": "沙耶=長袖Tシャツとロングパンツ / 髪をクリップで軽く留めている / スリッパ / 片代=場面外。本文では詳述しない / 瑠奈=場面外。本文では詳述しない"
+    "wardrobeContext": "沙耶=場面外。本文では詳述しない / 片代=場面外。本文では詳述しない / 瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー"
   },
   "noteMemo": {
     "titleCandidate": "",
