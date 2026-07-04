@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-05",
+  "createdAt": "2026-07-05 08:34:30 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "寝ぐせ / 通勤バッグ"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "玄関でバッグ置いて靴脱いだのに、先に寝ぐせが目に入った。  \n直す前からもう帰宅扱いされてる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "evening_commute",
+    "characterLocation": "沙耶=退勤後、駅前または帰り道 / 片代=退勤後、乗り換え前後または駅前 / 瑠奈=退勤後、駅前コンビニまたは電車内",
+    "possibleSmallEvents": "買い忘れ / リップ / のど飴 / グミ / ドラッグストア / バッグ / 本 / 傘",
+    "cafeAvailability": "長めに可",
+    "lineAvailability": "none",
+    "xPostLikelihood": "中",
+    "seasonContext": "夏",
+    "weatherContext": "雨上がり",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=低めポニーにしやすいカーディガン + 雨の日用ローファー + ヘアクリップ留め + 生成り布トート / 片代=半袖ブラウス + 軽いロングスカート + 低めポニー + フラットシューズ + 通勤バッグ / 瑠奈=半袖シャツ + ナイロン台形スカート + 耳掛け + 黒スニーカー + リュック",
+    "wardrobeContext": "沙耶=低めポニーにしやすいカーディガン + 雨の日用ローファー + ヘアクリップ留め + 雨の日用ローファー + 生成り布トート / 片代=半袖ブラウス + 軽いロングスカート + 低めポニー + フラットシューズ + 通勤バッグ / 瑠奈=半袖シャツ + ナイロン台形スカート + 耳掛け + 黒スニーカー + リュック"
+  },
+  "noteMemo": {
+    "titleCandidate": "玄関で寝ぐせが先に目に入る",
+    "narrator": "沙耶",
+    "theme": "雨上がりの帰宅直後、身だしなみだけ少し先に崩れる感じ",
+    "rememberedLine": "玄関でバッグ置いて靴脱いだのに、先に寝ぐせが目に入った"
+  }
+}
