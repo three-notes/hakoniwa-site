@@ -1,15 +1,15 @@
 {
   "date": "2026-07-04",
-  "createdAt": "2026-07-04 19:15:02 +0900",
+  "createdAt": "2026-07-04 19:16:27 +0900",
   "eventOwner": "沙耶",
   "seed": {
     "label": ""
   },
   "x": {
-    "hasPost": false,
-    "poster": null,
-    "handle": null,
-    "text": ""
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "手帳で明日の持ち物を見て、通勤バッグの横にハンカチ並べてた。今日はここまでで十分にします、準備って並べた時点でちょっと終わった顔をする。"
   },
   "line": {
     "hasLine": true,
@@ -19,39 +19,39 @@
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "これ見て、文庫本開いたのにしおりだけ動いた",
-        "reaction": null
-      },
-      {
-        "type": "message",
-        "speaker": "片代",
-        "body": "本体より先にしおりが働いてる",
-        "reaction": null
-      },
-      {
-        "type": "message",
-        "speaker": "瑠奈",
-        "body": "笑",
+        "body": "これ見て",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "もう一回開く",
+        "body": "手帳の横にバッグとハンカチ並べた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "並べた時点でもう持ってる感じするね",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "瑠奈",
-        "body": "びっくり、次は本文も連れてきて",
+        "body": "ハンカチだけ先に出てるの、えらい",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "いったんここで止める",
         "reaction": null
       }
     ]
   },
   "dailyContext": {
-    "timeSlot": "morning_commute",
-    "characterLocation": "沙耶=通勤中",
-    "possibleSmallEvents": "ホームで文庫本を開いてすぐ閉じる / しおりだけ動かして、本文を一行も読まない / ホームで文庫本を開いてすぐ閉じるを今日はここまでにする",
+    "timeSlot": "night_home",
+    "characterLocation": "沙耶=沙耶の部屋",
+    "possibleSmallEvents": "明日の持ち物を手帳で確認してバッグの横に並べる / 確認したはずのハンカチを机に置いたままにする / 明日の持ち物を手帳で確認してバッグの横に並べるを今日はここまでにする",
     "cafeAvailability": "基本なし",
     "lineAvailability": "可",
     "xPostLikelihood": "中",
@@ -61,7 +61,7 @@
     "weatherSource": "open-meteo",
     "weatherLocation": "東京付近",
     "temperatureC": "23.9",
-    "wardrobeContext": "沙耶=ライトグレーカーディガンに雨の日用ローファー / 低めポニーテール、前髪を少し気にしている / 雨の日用ローファー / 片代=場面外。本文では詳述しない / 瑠奈=場面外。本文では詳述しない"
+    "wardrobeContext": "沙耶=長袖Tシャツとロングパンツ / 髪をクリップで軽く留めている / スリッパ / 片代=場面外。本文では詳述しない / 瑠奈=場面外。本文では詳述しない"
   },
   "noteMemo": {
     "titleCandidate": "",
