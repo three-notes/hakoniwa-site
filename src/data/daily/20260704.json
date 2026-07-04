@@ -1,78 +1,72 @@
 {
   "date": "2026-07-04",
-  "createdAt": "2026-07-04 08:34:30 +0900",
+  "createdAt": "2026-07-04 19:15:02 +0900",
   "eventOwner": "沙耶",
   "seed": {
-    "label": "駅前の謎POP"
+    "label": ""
   },
   "x": {
-    "hasPost": true,
-    "poster": "沙耶",
-    "handle": "@saya",
-    "text": "駅前のコンビニで飲み物買うつもりだったのに、謎POP読んで別の棚見てた。  \n手、案内に弱い。"
+    "hasPost": false,
+    "poster": null,
+    "handle": null,
+    "text": ""
   },
   "line": {
     "hasLine": true,
     "mode": "mini",
-    "title": "駅で見るだけの朝",
+    "title": "三人のトーク",
     "messages": [
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "駅前でこれ見た",
+        "body": "これ見て、文庫本開いたのにしおりだけ動いた",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "片代",
-        "body": "どれ？",
-        "reaction": null
-      },
-      {
-        "type": "message",
-        "speaker": "沙耶",
-        "body": "コンビニのPOP。飲み物の前",
+        "body": "本体より先にしおりが働いてる",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "瑠奈",
-        "body": "先に読んだ顔してる",
+        "body": "笑",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "読んだら、飲み物より先に別の棚いった",
+        "body": "もう一回開く",
         "reaction": null
       },
       {
         "type": "message",
-        "speaker": "片代",
-        "body": "POPに連れてかれてる",
+        "speaker": "瑠奈",
+        "body": "びっくり、次は本文も連れてきて",
         "reaction": null
       }
     ]
   },
   "dailyContext": {
-    "timeSlot": "after_work",
-    "characterLocation": "沙耶=退勤後、駅前カフェか買い物先 / 片代=退勤後、駅前カフェか買い物先 / 瑠奈=退勤後、駅前カフェかコンビニ",
-    "possibleSmallEvents": "駅前カフェ / ファミレス / 買い物 / メニュー / 短い雑談 / 本 / 傘 / バッグ",
-    "cafeAvailability": "長めに可",
+    "timeSlot": "morning_commute",
+    "characterLocation": "沙耶=通勤中",
+    "possibleSmallEvents": "ホームで文庫本を開いてすぐ閉じる / しおりだけ動かして、本文を一行も読まない / ホームで文庫本を開いてすぐ閉じるを今日はここまでにする",
+    "cafeAvailability": "基本なし",
     "lineAvailability": "可",
-    "xPostLikelihood": "中から高",
+    "xPostLikelihood": "中",
     "seasonContext": "夏",
-    "weatherContext": "晴れ",
-    "temperatureFeel": "暑い",
-    "weatherSource": "synthetic",
-    "weatherLocation": "scene_estimate",
-    "temperatureC": "- wardrobe_context: 沙耶=半袖ブラウス + ネイビーロングスカート + 耳掛け + ローファー + ベージュショルダー / 片代=ニット + ロングスカート + 低めポニー + 白スニーカー + キャンバストート / 瑠奈=ビッグTシャツ + ナイロン台形スカート + 前髪だけピン留め + 白スニーカー + ナイロンショルダー",
-    "wardrobeContext": "沙耶=半袖ブラウス + ネイビーロングスカート + 耳掛け + ローファー + ベージュショルダー / 片代=ニット + ロングスカート + 低めポニー + 白スニーカー + キャンバストート / 瑠奈=ビッグTシャツ + ナイロン台形スカート + 前髪だけピン留め + 白スニーカー + ナイロンショルダー"
+    "weatherContext": "湿気が強いくもり",
+    "temperatureFeel": "少し蒸す",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "23.9",
+    "wardrobeContext": "沙耶=ライトグレーカーディガンに雨の日用ローファー / 低めポニーテール、前髪を少し気にしている / 雨の日用ローファー / 片代=場面外。本文では詳述しない / 瑠奈=場面外。本文では詳述しない"
   },
   "noteMemo": {
-    "titleCandidate": "駅前のPOPに寄り道した",
-    "narrator": "沙耶",
-    "theme": "予定より先に目が動く",
-    "rememberedLine": "手、案内に弱い。"
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
   }
 }
