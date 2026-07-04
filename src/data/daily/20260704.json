@@ -1,15 +1,15 @@
 {
   "date": "2026-07-04",
-  "createdAt": "2026-07-04 19:26:38 +0900",
-  "eventOwner": "瑠奈",
+  "createdAt": "2026-07-04 19:32:56 +0900",
+  "eventOwner": "沙耶",
   "seed": {
     "label": ""
   },
   "x": {
     "hasPost": true,
-    "poster": "瑠奈",
-    "handle": "@runa",
-    "text": "職場の昼休み、スマホで気になる新商品の写真を見つけて保存した。  \nこういうのだけ妙に手が早い、笑"
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "カフェで席だけ決めて、飲み物より先に文庫本を開いてしまった。  \nメニュー表を見てるはずなのに、手だけ先に静かにしてる。"
   },
   "line": {
     "hasLine": true,
@@ -18,50 +18,50 @@
     "messages": [
       {
         "type": "message",
-        "speaker": "瑠奈",
-        "body": "職場の昼休み、新商品の写真見つけた",
+        "speaker": "沙耶",
+        "body": "これ見て",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "スマホで見つけるやつだ",
+        "body": "席は取ったのに、メニュー見る前に本開いてる",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "片代",
-        "body": "保存まで行くの早いね（笑）",
+        "body": "もう注文待ちじゃなくて読書待ちだね（笑）",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "瑠奈",
-        "body": "OK、ひとまず入れた",
+        "body": "その本、飲み物より先に来てる",
         "reaction": null
       },
       {
         "type": "message",
         "speaker": "沙耶",
-        "body": "そのまま見返す用で終わりそう",
+        "body": "とりあえずメニューに戻す",
         "reaction": null
       }
     ]
   },
   "dailyContext": {
-    "timeSlot": "lunch",
-    "characterLocation": "瑠奈=職場",
-    "possibleSmallEvents": "休憩中に気になる新商品の写真を見つけて保存する / 休憩中に気になる新商品の写真を見つけて保存するが小さくうまくいく",
-    "cafeAvailability": "基本なし",
+    "timeSlot": "after_work",
+    "characterLocation": "沙耶=カフェ",
+    "possibleSmallEvents": "カフェで友人を待ちながら静かな席を選ぶ / 席は決めたのに、飲み物を決める前に本を開く / カフェで友人を待ちながら静かな席を選ぶを今日はここまでにする",
+    "cafeAvailability": "可",
     "lineAvailability": "可",
-    "xPostLikelihood": "中",
+    "xPostLikelihood": "中から高",
     "seasonContext": "夏",
     "weatherContext": "湿気が強いくもり",
     "temperatureFeel": "少し蒸す",
     "weatherSource": "open-meteo",
     "weatherLocation": "東京付近",
-    "temperatureC": "23.9",
-    "wardrobeContext": "沙耶=場面外。本文では詳述しない / 片代=場面外。本文では詳述しない / 瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー"
+    "temperatureC": "23.8",
+    "wardrobeContext": "沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス / 片代=場面外。本文では詳述しない / 瑠奈=場面外。本文では詳述しない"
   },
   "noteMemo": {
     "titleCandidate": "",
