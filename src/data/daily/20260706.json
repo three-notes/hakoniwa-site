@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-06",
+  "createdAt": "2026-07-06 08:43:24 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "前夜のまま散らかった部屋を一瞬振り返るが、そのまま出るまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "朝7時前、自宅で散らかった部屋を一回見て、そのまま出た。リュックと鍵だけ持っていく日。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "early_morning",
+    "characterLocation": "自宅(出発前)",
+    "possibleSmallEvents": "前夜のまま散らかった部屋を一瞬振り返るが、そのまま出る / 前夜のまま散らかった部屋を一瞬振り返るが、そのまま出るまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "日差しが強い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
