@@ -1,41 +1,72 @@
 {
   "date": "2026-07-05",
-  "createdAt": "2026-07-05 08:34:30 +0900",
-  "eventOwner": "沙耶",
+  "createdAt": "2026-07-05 12:19:18 +0900",
+  "eventOwner": "瑠奈",
   "seed": {
-    "label": "寝ぐせ / 通勤バッグ"
+    "label": ""
   },
   "x": {
     "hasPost": true,
-    "poster": "沙耶",
-    "handle": "@saya",
-    "text": "玄関でバッグ置いて靴脱いだのに、先に寝ぐせが目に入った。  \n直す前からもう帰宅扱いされてる。"
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "自宅の冷蔵庫あけたら、おやつあった。Tシャツのままだけど、今日はお菓子が先に見つかってえらい。"
   },
   "line": {
-    "hasLine": false,
-    "mode": "none",
-    "title": null,
-    "messages": []
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "冷蔵庫の中、ちゃんとおやついた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "うんうん",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "冷蔵庫にいるなら、袋のほうも見える？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "見えた。今日はお菓子の勝ち",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "じゃあそれ食べて落ち着こ",
+        "reaction": null
+      }
+    ]
   },
   "dailyContext": {
-    "timeSlot": "evening_commute",
-    "characterLocation": "沙耶=退勤後、駅前または帰り道 / 片代=退勤後、乗り換え前後または駅前 / 瑠奈=退勤後、駅前コンビニまたは電車内",
-    "possibleSmallEvents": "買い忘れ / リップ / のど飴 / グミ / ドラッグストア / バッグ / 本 / 傘",
-    "cafeAvailability": "長めに可",
-    "lineAvailability": "none",
+    "timeSlot": "night_home",
+    "characterLocation": "瑠奈=自宅",
+    "possibleSmallEvents": "冷蔵庫を漁っておやつを見つける / 冷蔵庫を漁っておやつを見つけるが小さくうまくいく",
+    "cafeAvailability": "基本なし",
+    "lineAvailability": "可",
     "xPostLikelihood": "中",
     "seasonContext": "夏",
-    "weatherContext": "雨上がり",
-    "temperatureFeel": "暑い",
-    "weatherSource": "synthetic",
-    "weatherLocation": "scene_estimate",
-    "temperatureC": "- wardrobe_context: 沙耶=低めポニーにしやすいカーディガン + 雨の日用ローファー + ヘアクリップ留め + 生成り布トート / 片代=半袖ブラウス + 軽いロングスカート + 低めポニー + フラットシューズ + 通勤バッグ / 瑠奈=半袖シャツ + ナイロン台形スカート + 耳掛け + 黒スニーカー + リュック",
-    "wardrobeContext": "沙耶=低めポニーにしやすいカーディガン + 雨の日用ローファー + ヘアクリップ留め + 雨の日用ローファー + 生成り布トート / 片代=半袖ブラウス + 軽いロングスカート + 低めポニー + フラットシューズ + 通勤バッグ / 瑠奈=半袖シャツ + ナイロン台形スカート + 耳掛け + 黒スニーカー + リュック"
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "少し蒸す",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "23.8",
+    "wardrobeContext": "沙耶=場面外。本文では詳述しない / 片代=場面外。本文では詳述しない / 瑠奈=Tシャツとジャージパンツ / 前髪だけヘアピンで留めている / 裸足か靴下"
   },
   "noteMemo": {
-    "titleCandidate": "玄関で寝ぐせが先に目に入る",
-    "narrator": "沙耶",
-    "theme": "雨上がりの帰宅直後、身だしなみだけ少し先に崩れる感じ",
-    "rememberedLine": "玄関でバッグ置いて靴脱いだのに、先に寝ぐせが目に入った"
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
   }
 }
