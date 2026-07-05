@@ -468,19 +468,180 @@ h3 {
 }
 
 .line-sticker {
+  --sticker-bg: #fffdf7;
+  --sticker-border: rgba(78, 69, 59, 0.2);
+  --sticker-ink: #36302a;
   display: inline-flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-width: 72px;
-  min-height: 34px;
-  padding: 7px 12px;
-  border: 2px solid rgba(38, 34, 31, 0.24);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.72);
-  color: #2f2a26;
-  font-size: 13px;
+  gap: 4px;
+  min-width: 74px;
+  min-height: 66px;
+  padding: 8px 10px 7px;
+  border: 2px solid var(--sticker-border);
+  border-radius: 18px;
+  background: var(--sticker-bg);
+  color: var(--sticker-ink);
+  font-size: 12px;
   font-weight: 700;
   box-shadow: 0 2px 8px rgba(38, 34, 31, 0.12);
+}
+
+.sticker-face {
+  position: relative;
+  display: block;
+  width: 34px;
+  height: 34px;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.sticker-eyes::before,
+.sticker-eyes::after {
+  position: absolute;
+  top: 11px;
+  width: 4px;
+  height: 4px;
+  content: "";
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.sticker-eyes::before {
+  left: 9px;
+}
+
+.sticker-eyes::after {
+  right: 9px;
+}
+
+.sticker-mouth {
+  position: absolute;
+  left: 50%;
+  bottom: 8px;
+  width: 12px;
+  height: 6px;
+  border-bottom: 2px solid currentColor;
+  border-radius: 0 0 14px 14px;
+  transform: translateX(-50%);
+}
+
+.sticker-mark {
+  position: absolute;
+  display: none;
+}
+
+.sticker-label {
+  line-height: 1.1;
+  white-space: nowrap;
+}
+
+.sticker-sad {
+  --sticker-bg: #eef4fb;
+  --sticker-border: rgba(66, 92, 118, 0.24);
+  --sticker-ink: #3e596d;
+}
+
+.sticker-sad .sticker-mouth {
+  bottom: 6px;
+  border-top: 2px solid currentColor;
+  border-bottom: 0;
+  border-radius: 14px 14px 0 0;
+}
+
+.sticker-nod {
+  --sticker-bg: #eef8ef;
+  --sticker-border: rgba(70, 116, 83, 0.24);
+  --sticker-ink: #3f6847;
+}
+
+.sticker-nod .sticker-mouth {
+  width: 14px;
+  height: 4px;
+}
+
+.sticker-question {
+  --sticker-bg: #fff8e5;
+  --sticker-border: rgba(141, 103, 44, 0.26);
+  --sticker-ink: #6d542d;
+}
+
+.sticker-question .sticker-mark {
+  top: -7px;
+  right: -6px;
+  display: block;
+  width: 14px;
+  height: 14px;
+}
+
+.sticker-question .sticker-mark::before {
+  content: "?";
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.sticker-surprise {
+  --sticker-bg: #fff1ec;
+  --sticker-border: rgba(150, 84, 67, 0.24);
+  --sticker-ink: #784b3d;
+}
+
+.sticker-surprise .sticker-mouth {
+  bottom: 7px;
+  width: 8px;
+  height: 8px;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+}
+
+.sticker-sigh {
+  --sticker-bg: #f4f1ed;
+  --sticker-border: rgba(95, 82, 70, 0.22);
+  --sticker-ink: #5d534b;
+}
+
+.sticker-sigh .sticker-mouth {
+  width: 13px;
+  height: 0;
+  border-bottom: 2px solid currentColor;
+  border-radius: 0;
+}
+
+.sticker-heart {
+  --sticker-bg: #fff1f3;
+  --sticker-border: rgba(166, 82, 100, 0.22);
+  --sticker-ink: #934c60;
+}
+
+.sticker-heart .sticker-mark {
+  top: -6px;
+  right: -7px;
+  display: block;
+}
+
+.sticker-heart .sticker-mark::before {
+  content: "♥";
+  font-size: 15px;
+}
+
+.sticker-clap {
+  --sticker-bg: #fff7e8;
+  --sticker-border: rgba(142, 102, 49, 0.24);
+  --sticker-ink: #7a5b31;
+}
+
+.sticker-clap .sticker-mark {
+  right: -9px;
+  bottom: -2px;
+  display: block;
+}
+
+.sticker-clap .sticker-mark::before {
+  content: "〃";
+  font-size: 18px;
+  font-weight: 700;
 }
 
 .avatar {

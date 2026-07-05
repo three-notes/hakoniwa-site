@@ -13,7 +13,7 @@ const stories = Object.values(storyModules)
   .sort((a, b) => b.date.localeCompare(a.date));
 
 const assetPath = (path) => path.replace(/^\//, "");
-const stylePath = `${assetPath("styles.css")}?v=20260630-4`;
+const stylePath = `${assetPath("styles.css")}?v=20260705-1`;
 const defaultStoryImage = "assets/story_shopping_back.png";
 const storyImagePath = (story) => assetPath(story.image ?? defaultStoryImage);
 
@@ -62,6 +62,27 @@ const reactionPresentation = {
   "😮": { kind: "surprise", label: "驚き" },
   "😢": { kind: "sad", label: "しょんぼり" },
   "😉": { kind: "wink", label: "ウインク" },
+};
+
+const stickerPresentation = {
+  笑: { kind: "smile", label: "笑" },
+  しょんぼり: { kind: "sad", label: "しょんぼり" },
+  うんうん: { kind: "nod", label: "うんうん" },
+  疑問: { kind: "question", label: "疑問" },
+  びっくり: { kind: "surprise", label: "びっくり" },
+  ためいき: { kind: "sigh", label: "ためいき" },
+  ハート: { kind: "heart", label: "ハート" },
+  拍手: { kind: "clap", label: "拍手" },
+};
+
+const getStickerName = (message) => {
+  const raw = message.sticker ?? message.body ?? "";
+  return String(raw).replace(/^【/, "").replace(/】$/, "").replace(/^（/, "").replace(/）$/, "");
+};
+
+const getStickerPresentation = (message) => {
+  const name = getStickerName(message);
+  return stickerPresentation[name] ?? { kind: "plain", label: name || "スタンプ" };
 };
 
 const characters = [
@@ -179,9 +200,21 @@ const iconPathBySpeaker = {
             <div class="chat-log">
               {lineThread.messages.map((message) => {
                 if (message.type === "sticker") {
+                  const sticker = getStickerPresentation(message);
                   return (
                     <div class="chat-row sticker-row">
-                      <span class="line-sticker">{message.body}</span>
+                      <span
+                        class:list={["line-sticker", `sticker-${sticker.kind}`]}
+                        role="img"
+                        aria-label={`${message.speaker ? `${message.speaker}の` : ""}${sticker.label}スタンプ`}
+                      >
+                        <span class="sticker-face" aria-hidden="true">
+                          <span class="sticker-eyes"></span>
+                          <span class="sticker-mouth"></span>
+                          <span class="sticker-mark"></span>
+                        </span>
+                        <span class="sticker-label">{sticker.label}</span>
+                      </span>
                     </div>
                   );
                 }
