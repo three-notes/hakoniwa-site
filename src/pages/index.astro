@@ -13,7 +13,7 @@ const stories = Object.values(storyModules)
   .sort((a, b) => b.date.localeCompare(a.date));
 
 const assetPath = (path) => path.replace(/^\//, "");
-const stylePath = `${assetPath("styles.css")}?v=20260705-1`;
+const stylePath = `${assetPath("styles.css")}?v=20260705-2`;
 const defaultStoryImage = "assets/story_shopping_back.png";
 const storyImagePath = (story) => assetPath(story.image ?? defaultStoryImage);
 
@@ -348,9 +348,8 @@ const iconPathBySpeaker = {
               <article class="character-card">
                 <div class:list={["profile-photo", character.imageClass]} aria-hidden="true"></div>
                 <div>
-                  <p class="character-kana">{character.introBy}</p>
                   <h3>{character.shortName}</h3>
-                  <p>{character.body}</p>
+                  <p>{character.body}<span class="character-intro-by">（{character.introBy}）</span></p>
                 </div>
               </article>
             ))}

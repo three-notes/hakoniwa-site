@@ -1159,10 +1159,9 @@ h3 {
     url("assets/profile_runa.png");
 }
 
-.character-kana {
-  margin: 0;
+.character-intro-by {
   color: var(--muted-ink);
-  font-size: 12px;
+  white-space: nowrap;
 }
 
 .character-card p:last-child {
