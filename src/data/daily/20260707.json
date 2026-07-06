@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-07",
+  "createdAt": "2026-07-07 08:43:24 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "休憩スペースでメモ帳を開く→買い物メモを一つ書くまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "職場の休憩スペースでメモ帳を開いて、買い物メモを一つだけ書いた。  \n昼休みの頭がまだ少し暑いので、今日はこのままメモ帳で終わりにする。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場",
+    "possibleSmallEvents": "休憩スペースでメモ帳を開く→買い物メモを一つ書く / 休憩スペースでメモ帳を開く→買い物メモを一つ書くまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "夕方も暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス",
+    "wardrobeContext": "沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
