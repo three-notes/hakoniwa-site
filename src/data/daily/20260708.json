@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-08",
+  "createdAt": "2026-07-08 08:43:24 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "気づけば夜更かししている"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "寝る前にスマホで気になってた動画を見始めたら止まらなくなって、もうこんな時間。夜更かし係、今日はちゃんと残業した。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "late_night",
+    "characterLocation": "自宅",
+    "possibleSmallEvents": "気になっていた動画を見始めて止まらなくなる / 気づけば夜更かししている",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "晴れ時々くもり",
+    "temperatureFeel": "過ごしやすい",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "23.9",
+    "wardrobeContext": "瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
