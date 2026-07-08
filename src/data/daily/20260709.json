@@ -1,0 +1,66 @@
+{
+  "date": "2026-07-09",
+  "createdAt": "2026-07-09 08:43:24 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "襟だけ少し曲がっていて、出る前に直す"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "出る前にブラウス着て鏡見たら、襟だけ少し曲がってた。直したけど、朝からそこだけ働き者だった。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "これ見て、襟だけ少し曲がってた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "鏡の前で見つけたやつ？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "襟だけ先に起きてる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "直した。カーディガンは無事",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "early_morning",
+    "characterLocation": "沙耶の部屋(出発前)",
+    "possibleSmallEvents": "前夜に準備した服に着替える→鏡で身だしなみを確認する / 襟だけ少し曲がっていて、出る前に直す",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "湿気が強い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=ライトグレーカーディガンに雨の日用ローファー / 低めポニーテール、前髪を少し気にしている / 雨の日用ローファー",
+    "wardrobeContext": "沙耶=ライトグレーカーディガンに雨の日用ローファー / 低めポニーテール、前髪を少し気にしている / 雨の日用ローファー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
