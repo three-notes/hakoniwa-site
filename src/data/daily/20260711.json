@@ -1,0 +1,66 @@
+{
+  "date": "2026-07-11",
+  "createdAt": "2026-07-11 08:43:39 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "乾かす前に寝そうになる"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "自宅で髪乾かすつもりだったのに、ベッドに先に座ってる。ドライヤーがこっち見てる感じする、まずい。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "いま自宅で、髪乾かす前にベッド座った",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "ドライヤー持ったまま止まってるやつ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "タオルが先に働いてる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "もう少しだけ座ってから戻る",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "night_home",
+    "characterLocation": "自宅",
+    "possibleSmallEvents": "シャワーを浴びて、髪を乾かさず少しだけベッドへ座る / 乾かす前に寝そうになる",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足",
+    "wardrobeContext": "瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
