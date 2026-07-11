@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-12",
+  "createdAt": "2026-07-12 08:43:24 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "床の物をベッドへ避難させる→空いた場所へ掃除機をかけるまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "自宅のリビングで、床の物をいったんベッドへ避難させてから掃除機かけた。  \n朝からベッドが仮置き場になってるの、だいぶうちの床。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "early_morning",
+    "characterLocation": "自宅のリビング",
+    "possibleSmallEvents": "床の物をベッドへ避難させる→空いた場所へ掃除機をかける / 床の物をベッドへ避難させる→空いた場所へ掃除機をかけるまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "夕方も暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足",
+    "wardrobeContext": "瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
