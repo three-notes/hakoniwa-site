@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-13",
+  "createdAt": "2026-07-13 13:10:32 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "休憩スペースでメモ帳を開く→午後にやることを一つだけ書くまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "休憩スペースでメモ帳を開いて、午後にやることを一つだけ書いた。  \nこういう日はメモ帳だけ先に静かになる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "休憩スペース",
+    "possibleSmallEvents": "休憩スペースでメモ帳を開く→午後にやることを一つだけ書く / 休憩スペースでメモ帳を開く→午後にやることを一つだけ書くまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "雨上がり",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス",
+    "wardrobeContext": "沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
