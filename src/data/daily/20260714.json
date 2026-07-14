@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-14",
+  "createdAt": "2026-07-14 13:01:42 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "書いたあとで、同じ内容を付箋にも書こうとして迷う"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "休憩スペースでメモ帳を開いて、午後にやることを一つだけ書いた。  \nそのあと同じことを付箋にも書こうとして、メモ帳で足りるのに手が止まった。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "休憩スペースで、午後にやることをメモ帳に一個だけ書いた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "それある、同じことを別の紙にも書きたくなるやつ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "うんうん、手だけもう一回やる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "でも今日はメモ帳だけで止める",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": "片代",
+        "sticker": "笑",
+        "body": "【笑】"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "休憩スペース",
+    "possibleSmallEvents": "休憩スペースでメモ帳を開く→午後にやることを一つだけ書く / 書いたあとで、同じ内容を付箋にも書こうとして迷う",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "晴れ時々くもり",
+    "temperatureFeel": "かなり暑い",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "33.1",
+    "wardrobeContext": "沙耶=半袖ブラウスに薄手カーディガン / 耳掛け、少し緩め / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
