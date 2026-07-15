@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-15",
+  "createdAt": "2026-07-15 12:12:26 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "職場の自販機で新商品のドリンクを試しに買うところが小さくうまくいく"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "職場の自販機で新商品のドリンクを買った。暑い昼休みに、これだけは試したくなった。\n理由は単純だけど、つい手が出た。ドリンクのほうが先に勝った。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場",
+    "possibleSmallEvents": "職場の自販機で新商品のドリンクを試しに買う / 職場の自販機で新商品のドリンクを試しに買うところが小さくうまくいく",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "夕方も暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=半袖シャツに軽いパンツを合わせた服装 / 少し寝癖が残ったままの髪 / スニーカー",
+    "wardrobeContext": "瑠奈=半袖シャツに軽いパンツを合わせた服装 / 少し寝癖が残ったままの髪 / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
