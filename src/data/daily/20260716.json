@@ -1,0 +1,66 @@
+{
+  "date": "2026-07-16",
+  "createdAt": "2026-07-16 12:23:19 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "デスクで昼休みの残り時間を見る→あと五分でできることを探すところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "昼休み、職場のデスクでスマホ見てたら、あと五分でできることを探す時間になった。結局いちばん手近なのがスマホだった。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "昼休みあと五分、スマホしか見てない",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "デスクでそれはもう休み方が雑",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "メモとペンあるのに先にスマホ行くの、わかる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "じゃあ今日はメモを一回だけ見る",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場のデスク（平日）",
+    "possibleSmallEvents": "デスクで昼休みの残り時間を見る→あと五分でできることを探す / デスクで昼休みの残り時間を見る→あと五分でできることを探すところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
