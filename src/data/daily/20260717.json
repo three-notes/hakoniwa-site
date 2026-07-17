@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-17",
+  "createdAt": "2026-07-17 19:01:35 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "洗剤を買いに来たのに、リップの色で少し迷う"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "ドラッグストアで洗剤を買うつもりだったのに、リップ売り場の前で少し止まった。結局いちばん見てたの、洗剤。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "ドラッグストアで洗剤買った",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "そのまま出ると思った",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "リップ売り場の前で止まった",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "洗剤のあとにリップ見るの、ちゃんと寄り道だ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "洗剤は手にあるのにね",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": "瑠奈",
+        "sticker": "笑",
+        "body": "【笑】"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "after_work",
+    "characterLocation": "ドラッグストア",
+    "possibleSmallEvents": "ドラッグストアで洗剤を買う→ついでにリップ売り場の前で止まる / 洗剤を買いに来たのに、リップの色で少し迷う",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "夕方も暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=淡ブルーブラウスとベージュフレアスカート / ハーフアップ / バレエシューズ",
+    "wardrobeContext": "沙耶=淡ブルーブラウスとベージュフレアスカート / ハーフアップ / バレエシューズ"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
