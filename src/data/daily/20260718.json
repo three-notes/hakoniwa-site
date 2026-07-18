@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-18",
+  "createdAt": "2026-07-18 15:59:42 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "メモにない豆腐を見て、必要だった気がしてくる"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "スーパーで鍋の材料を見ながらメモ確認してたのに、豆腐見たら急に必要だった気がしてきた。  \nメモより先に自分の思い込みが買い物してる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "スーパー",
+    "possibleSmallEvents": "スーパーで鍋の材料を見ながら買い物メモを確認する / メモにない豆腐を見て、必要だった気がしてくる",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "蒸し暑い",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "28.2",
+    "wardrobeContext": "沙耶=ボーダーカットソーとストレートデニムパンツ / 黒髪ロングを耳掛け / 白スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
