@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-19",
+  "createdAt": "2026-07-19 12:36:26 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "公園を散歩しながら文庫本を読むベンチを探すところが小さくうまくいく"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "公園を歩いて文庫本読むベンチ探してたら、空いてるの見つかった。ちゃんと座れるだけで少しうれしい。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "公園",
+    "possibleSmallEvents": "公園を散歩しながら文庫本を読むベンチを探す / 公園を散歩しながら文庫本を読むベンチを探すところが小さくうまくいく",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "晴れ",
+    "temperatureFeel": "かなり蒸し暑い",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "31.3",
+    "wardrobeContext": "沙耶=薄手ニットと小花柄ロングスカート / ハーフアップ / バレエシューズ"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
