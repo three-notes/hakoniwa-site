@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-20",
+  "createdAt": "2026-07-20 12:20:12 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "先に席の明るさを見て、注文を決めるのが少し遅れる"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "静かな席を探してカフェ入ったのに、席の明るさ見てたらメニュー表開くのが遅れた。慎重すぎてお腹より先に席を見てる、私。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "これ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "カフェで席見てたら、メニュー表まだ開いてない",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "席先に見すぎ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "水のグラスあるのに、注文だけ遅れてるの笑",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "先に明るさ見たの、私らしい",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "カフェ",
+    "possibleSmallEvents": "昼休みに静かな席を探す→メニュー表を見る / 先に席の明るさを見て、注文を決めるのが少し遅れる",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=淡ブルーブラウスとベージュフレアスカート / ハーフアップ / バレエシューズ",
+    "wardrobeContext": "沙耶=淡ブルーブラウスとベージュフレアスカート / ハーフアップ / バレエシューズ"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
