@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-21",
+  "createdAt": "2026-07-21 13:01:25 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "職場でお弁当箱を開ける→箸を出すところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "職場でお弁当箱を開けて、箸を出したところで一回落ち着いた。暑い日の昼は、まず箸までで区切りたくなる。  \n弁当箱。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場",
+    "possibleSmallEvents": "職場でお弁当箱を開ける→箸を出す / 職場でお弁当箱を開ける→箸を出すところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "晴れ",
+    "temperatureFeel": "かなり暑い",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "34.5",
+    "wardrobeContext": "沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
