@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-22",
+  "createdAt": "2026-07-22 13:04:19 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "資料を付箋で整理する→机の端にそろえるまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "職場で資料を付箋で分けて、机の端にそろえるところまでで昼休みが終わった。付箋だけ妙に働いた気がする。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "職場の机、これ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "付箋で分けてた資料、端までそろえた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "ペンもちゃんといるの、えらい",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "付箋だけ先に働いてる",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": "沙耶",
+        "sticker": "笑",
+        "body": "【笑】"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場",
+    "possibleSmallEvents": "資料を付箋で整理する→机の端にそろえる / 資料を付箋で整理する→机の端にそろえるまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=半袖ブラウスに薄手カーディガン / 耳掛け、少し緩め / 低めパンプス",
+    "wardrobeContext": "沙耶=半袖ブラウスに薄手カーディガン / 耳掛け、少し緩め / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
