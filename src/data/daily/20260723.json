@@ -1,0 +1,66 @@
+{
+  "date": "2026-07-23",
+  "createdAt": "2026-07-23 08:06:08 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "調べた先の別の記事まで読み、降りる駅で慌てる"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "駅広告の知らない言葉をスマホで調べただけなのに、別の記事まで読んで降りる駅で慌てた。朝の私、寄り道が画面の中で先に育つ。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "駅で見るだけの朝",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "これ見て、駅広告の言葉を調べただけなのに、画面の中で別の記事まで行ってた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "スマホ持ってる時点で終わってない？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "しかも降りる駅で慌てるやつ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "リュックのまま画面閉じた、朝から忙しいのは指だった",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中(駅・道)",
+    "possibleSmallEvents": "車内広告を眺める→知らない言葉をスマホで検索する / 調べた先の別の記事まで読み、降りる駅で慌てる",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "夕方も暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
