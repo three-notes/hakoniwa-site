@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-24",
+  "createdAt": "2026-07-24 08:05:39 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "車内で文庫本を出す→立ったまま読めるページを開くところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "通勤中、文庫本を出して立ったまま読めるページまで開いた。しおりまで入れると少し落ち着く。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中",
+    "possibleSmallEvents": "車内で文庫本を出す→立ったまま読めるページを開く / 車内で文庫本を出す→立ったまま読めるページを開くところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "??",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=半袖ブラウスとネイビーロングスカート / 耳掛け、首元を少し涼しくしている / 白スニーカー",
+    "wardrobeContext": "沙耶=半袖ブラウスとネイビーロングスカート / 耳掛け、首元を少し涼しくしている / 白スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
