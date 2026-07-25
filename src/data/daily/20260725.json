@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-25",
+  "createdAt": "2026-07-25 15:29:50 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "目的の店へ行く前に体力を使う"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "ショッピングモールで目的の店行く前に、面白そうな店に先に入った。体力が先に減るの、順番おかしい。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "これ、目的の店の前で別の店入ってる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "もう看板に連れてかれてる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "トートバッグだけ先に歩いてる感じする",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "ほんとそれ、ちょっと息整えてから行く",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "いったん立ち止まっていいよ",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "ショッピングモール",
+    "possibleSmallEvents": "ショッピングモールで面白そうな店を見つけて先に入る / 目的の店へ行く前に体力を使う",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "雨",
+    "temperatureFeel": "かなり蒸し暑い",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "32.3",
+    "wardrobeContext": "瑠奈=パーカーとカーゴパンツのラフな私服 / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
