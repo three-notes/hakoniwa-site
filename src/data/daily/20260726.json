@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-26",
+  "createdAt": "2026-07-26 13:06:37 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "返すだけのつもりが、借りる候補を抱えている"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "返すだけのつもりで図書館に来たのに、次に借りる本の棚も見てしまった。今日は本を返しに来たはずなのに、手が先に負ける。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "これ見て。図書館カードと本、もう出してるのに棚も見てる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "返す手が止まってる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "本が先に増えるやつだ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "いったん一冊だけにする",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "その一冊がいちばんむずかしいやつじゃん",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "図書館",
+    "possibleSmallEvents": "図書館で返す本を出す→次に借りる本の棚を見る / 返すだけのつもりが、借りる候補を抱えている",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "??",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=白Tシャツとロングスカート / 低めポニーテール / 白スニーカー",
+    "wardrobeContext": "沙耶=白Tシャツとロングスカート / 低めポニーテール / 白スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
