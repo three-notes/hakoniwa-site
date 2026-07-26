@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-27",
+  "createdAt": "2026-07-27 07:22:22 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "イヤホンで音楽を聴きながら歩くところが小さくうまくいく"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "通勤中、イヤホンで音楽聴きながら歩いてるのが今日はちゃんとできた。リュックのままでも意外といける。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "朝の通勤、イヤホンつけたまま歩けた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "ちゃんと歩けたのえらい",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "リュックあると手が空くの助かるよね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "そう。今日はイヤホンが先に仕事した",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": "沙耶",
+        "sticker": "うんうん",
+        "body": "【うんうん】"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中(駅・道)",
+    "possibleSmallEvents": "イヤホンで音楽を聴きながら歩く / イヤホンで音楽を聴きながら歩くところが小さくうまくいく",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "???",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
