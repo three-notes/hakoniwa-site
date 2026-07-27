@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-28",
+  "createdAt": "2026-07-28 08:03:41 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "持ち替えた拍子にポーチのファスナーが少し開く"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "朝の車内でバッグを前に持ち替えたら、ポーチのファスナーが少し開いた。通勤バッグ、まだ起きてる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中(駅・道)",
+    "possibleSmallEvents": "車内で立つ→バッグを前へ持ち替えて足元を空ける / 持ち替えた拍子にポーチのファスナーが少し開く",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "???",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=ベージュブラウスと控えめなフレアスカート / 軽い内巻きのセミロング / ローヒールパンプス",
+    "wardrobeContext": "片代=ベージュブラウスと控えめなフレアスカート / 軽い内巻きのセミロング / ローヒールパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
