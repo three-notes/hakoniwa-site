@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-29",
+  "createdAt": "2026-07-29 08:02:49 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "日傘を差しても汗ばむ"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "日陰を選んで歩いてるのに、日傘を差しても少し汗ばむ。ハンカチだけ先に出番きた。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "日傘さしてるのに汗ばむ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "朝からもう暑いね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "ハンカチが先に本番きてる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "ほんと。まだ通勤中なのに",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "とりあえず拭きながら行って",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "片代、今日はハンカチ持ちでいこ",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中(駅・道)",
+    "possibleSmallEvents": "日陰を選んで歩くが、結局少し汗ばむ / 日傘を差しても汗ばむ",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=ベージュブラウスと控えめなフレアスカート / 軽い内巻きのセミロング / ローヒールパンプス",
+    "wardrobeContext": "片代=ベージュブラウスと控えめなフレアスカート / 軽い内巻きのセミロング / ローヒールパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
