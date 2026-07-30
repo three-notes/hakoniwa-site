@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-30",
+  "createdAt": "2026-07-30 21:20:29 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "ネットへ入れたい服を一度洗濯機から掘り出す"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "洗濯物まとめて洗濯機に入れたあとで、洗濯ネット探して服を一回掘り出した。順番、私が先に負けてる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "night_home",
+    "characterLocation": "自宅",
+    "possibleSmallEvents": "洗濯物をまとめて洗濯機へ入れる→洗濯ネットを後から探す / ネットへ入れたい服を一度洗濯機から掘り出す",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足",
+    "wardrobeContext": "瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
