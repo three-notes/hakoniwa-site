@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-31",
+  "createdAt": "2026-07-31 20:31:09 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "休むつもりが、明日の準備を書き始める"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "ファミレスで飲み物を頼んで、手帳を開いたら今日の予定が明日の準備になってた。休むつもりだったのに、手帳が先に働きすぎ。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "手帳開いたら、明日のこと書いてた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "それある",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "予定より先に手が動くやつ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "いま飲み物待ってるのに、ペンだけ元気",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "うんうん、いったん落ち着きたい時ほど増える",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": "瑠奈",
+        "sticker": "笑",
+        "body": "【笑】"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "after_work",
+    "characterLocation": "ファミレス（平日）",
+    "possibleSmallEvents": "ファミレスで飲み物を頼む→今日の予定を手帳で確認する / 休むつもりが、明日の準備を書き始める",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=白ブラウスとプリーツスカートの組み合わせ / 軽い内巻きのセミロング / ベージュパンプス",
+    "wardrobeContext": "片代=白ブラウスとプリーツスカートの組み合わせ / 軽い内巻きのセミロング / ベージュパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
