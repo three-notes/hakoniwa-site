@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-01",
+  "createdAt": "2026-08-01 09:59:12 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "気づいたら思ったより遠くまで来ている"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "公園で気になった新しい道を歩いてたら、思ったより遠くまで来てた。スマホを見て、まだ歩いてる。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "full",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "公園で新しい道を歩いてたら、思ったより遠くまで来てた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "休日の朝からずいぶん歩いてるね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "スマホを見たらどこまで来てたの？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "公園の中だけど、思ったより遠い",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "まだ歩いてるんだ",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": "瑠奈",
+        "sticker": "うんうん",
+        "body": "【うんうん】"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "early_morning",
+    "characterLocation": "公園（休日）",
+    "possibleSmallEvents": "特に予定もないまま外に出て、気になる新しい道を歩いてみる / 気づいたら思ったより遠くまで来ている",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=ビッグTシャツとナイロン台形スカート / 前髪だけピン留め / スポーツサンダル",
+    "wardrobeContext": "瑠奈=ビッグTシャツとナイロン台形スカート / 前髪だけピン留め / スポーツサンダル"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
