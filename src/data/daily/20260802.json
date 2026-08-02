@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-02",
+  "createdAt": "2026-08-02 10:12:27 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "紅茶を淹れながらゆっくりスマホでニュースを見るところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "自宅で紅茶を淹れながら、スマホでニュースをゆっくり見てる休日の朝。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "early_morning",
+    "characterLocation": "自宅",
+    "possibleSmallEvents": "紅茶を淹れながらゆっくりスマホでニュースを見る / 紅茶を淹れながらゆっくりスマホでニュースを見るところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "かなり蒸し暑い",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "31.1",
+    "wardrobeContext": "片代=ワッフル素材のセットアップ / セミロングを下ろしたまま / 靴下"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
