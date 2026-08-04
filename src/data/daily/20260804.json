@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-04",
+  "createdAt": "2026-08-04 12:59:28 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "五分でできるつもりが、調べものが増える"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "職場のデスクで、昼休みあと五分でできることを探してたら、スマホの調べものが増えた。いったんメモ閉じる、五分の使い方が広がりすぎ。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場のデスク（平日）",
+    "possibleSmallEvents": "デスクで昼休みの残り時間を見る→あと五分でできることを探す / 五分でできるつもりが、調べものが増える",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
