@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-05",
+  "createdAt": "2026-08-05 13:12:36 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "朝は忘れたことに気づいていなかった"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "昼休みにコンビニで別のものを見るつもりだったのに、朝置き忘れた傘を見てた。傘に呼ばれてる場合じゃない。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "コンビニ",
+    "possibleSmallEvents": "朝の傘を置き忘れたことに気づき、コンビニで傘を見る / 朝は忘れたことに気づいていなかった",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=半袖シャツに軽いパンツを合わせた服装 / 少し寝癖が残ったままの髪 / スニーカー",
+    "wardrobeContext": "瑠奈=半袖シャツに軽いパンツを合わせた服装 / 少し寝癖が残ったままの髪 / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
