@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-06",
+  "createdAt": "2026-08-06 22:06:38 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "冷蔵庫の作り置きを確認する→足りない分だけ簡単に用意するところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "- 冷蔵庫の作り置きを見て、足りない分のご飯だけ簡単に用意した。今日はこれで十分ということにする。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "night_home",
+    "characterLocation": "自宅",
+    "possibleSmallEvents": "冷蔵庫の作り置きを確認する→足りない分だけ簡単に用意する / 冷蔵庫の作り置きを確認する→足りない分だけ簡単に用意するところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=柔らかいルームワンピース / ラフなお団子 / 柔らかい靴下",
+    "wardrobeContext": "片代=柔らかいルームワンピース / ラフなお団子 / 柔らかい靴下"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
