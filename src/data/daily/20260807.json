@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-07",
+  "createdAt": "2026-08-07 20:29:22 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "雨宿りで駅ビルに入る→雑貨売り場を少しだけ見るところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "雨宿りで駅ビルに入って、雑貨売り場を少し見るだけのつもりが、気づいたら雑貨を選んでた。外より静かだったから、これは寄り道じゃなくて避難です。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "after_work",
+    "characterLocation": "駅ビル",
+    "possibleSmallEvents": "雨宿りで駅ビルに入る→雑貨売り場を少しだけ見る / 雨宿りで駅ビルに入る→雑貨売り場を少しだけ見るところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス",
+    "wardrobeContext": "沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
