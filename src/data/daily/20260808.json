@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-08",
+  "createdAt": "2026-08-08 13:31:20 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "クローゼットの服を見直す→着ていない服を一か所へ分けるまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "クローゼット前で服を見直して、着ていない衣類を収納袋に分けています。部屋着のままでも、ここまではできる日。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "服を見た日",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "クローゼット前で服を見直してる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "着てない衣類を収納袋に分けた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "それある。見直すと一か所に集まりやすいよね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "その袋、服の待機場所になってる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "今日はここまで分けておく",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "クローゼット前",
+    "possibleSmallEvents": "クローゼットの服を見直す→着ていない服を一か所へ分ける / クローゼットの服を見直す→着ていない服を一か所へ分けるまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=ワッフル素材の淡い部屋着 / 黒髪ロングに少し寝癖が残っている / 靴下",
+    "wardrobeContext": "沙耶=ワッフル素材の淡い部屋着 / 黒髪ロングに少し寝癖が残っている / 靴下"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
