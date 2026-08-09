@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-09",
+  "createdAt": "2026-08-09 13:40:20 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "迷う服を保留の一角へ置き、そこだけ増える"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "クローゼット前で服を季節ごとに分けて、収納袋に入れる服を選んでたはずなのに、迷う服だけ保留の一角に増えていく。今日はこの袋に入れない理由がある、ということにする。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "full",
+    "title": "服を見た日",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "クローゼット前で服を分けてるんだけど、収納袋に入れる服より保留の服のほうが増えてる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "保留の一角、ちゃんと一角になってる？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "なってる。迷う服だけ置いてたら、そこだけ広がった",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "収納袋はまだ空いてるの？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "少し空いてる。服を入れる前に、収納袋の口だけ見てる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "その袋、置き場所として気に入られてるね",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "クローゼット前",
+    "possibleSmallEvents": "クローゼットの服を季節ごとに分ける→収納袋へ入れる / 迷う服を保留の一角へ置き、そこだけ増える",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=ワッフル素材のセットアップ / セミロングを下ろしたまま / 靴下",
+    "wardrobeContext": "片代=ワッフル素材のセットアップ / セミロングを下ろしたまま / 靴下"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
