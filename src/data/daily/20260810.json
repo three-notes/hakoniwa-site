@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-10",
+  "createdAt": "2026-08-10 12:10:17 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "おかずが端に寄っていて、ふたを開けたまま少し眺める"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "職場でお弁当箱を開けて箸を出したのに、おかずが端に寄っていて、そのまま少し眺めてる。お弁当、移動の余韻が長い。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "職場でお弁当箱を開けたら、おかずが端に寄ってた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "箸を出したところで止まるの、分かる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "おかず、端が好きなのかな",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "ふたを開けたままもう少し眺める",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "その間にハンカチだけきれいに置けそう",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "まず箸を持つ",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場",
+    "possibleSmallEvents": "職場でお弁当箱を開ける→箸を出す / おかずが端に寄っていて、ふたを開けたまま少し眺める",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "晴れ時々くもり",
+    "temperatureFeel": "かなり暑い",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "31.3",
+    "wardrobeContext": "沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
