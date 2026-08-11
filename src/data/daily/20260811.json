@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-11",
+  "createdAt": "2026-08-11 12:59:58 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "頼んだ量が多すぎて食べきれない"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "カフェで気になるメニュー頼んだら、思ってたより量が多くて食べきれない。メニュー表、そこは教えて。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "カフェで頼んだメニュー、量が多すぎて食べきれない",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "写真見たけど、メニュー表より料理が元気",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "気になったものを頼んだ結果が大きいね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "お昼から満腹の肩書きだけもらった",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "その肩書き、しばらく外せなさそう",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "カフェ",
+    "possibleSmallEvents": "同僚とランチに出て気になるメニューを頼む / 頼んだ量が多すぎて食べきれない",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
