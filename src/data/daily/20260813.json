@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-13",
+  "createdAt": "2026-08-13 08:10:38 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "家を出て駅まで歩く→改札前でICカードを出すところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "家を出て駅まで歩いて、改札前でICカードを出した。朝の通勤中、ここまで来るとひと区切り。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "駅で見るだけの朝",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "駅まで歩いて、いま改札前でICカード出した",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "それある。そこまで来ると少し落ち着くね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "わかる。毎朝同じところでICカードを出してる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "うん、今日はここまで",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中",
+    "possibleSmallEvents": "家を出て駅まで歩く→改札前でICカードを出す / 家を出て駅まで歩く→改札前でICカードを出すところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=白ブラウスとネイビーロングスカート / 低めポニーテール / ローファー",
+    "wardrobeContext": "沙耶=白ブラウスとネイビーロングスカート / 低めポニーテール / ローファー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
