@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-14",
+  "createdAt": "2026-08-14 07:55:58 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "車内で文庫本を出す→立ったまま読めるページを開くところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "通勤中、車内で文庫本を出して、立ったまま読めるページを開いたところ。朝の読書はここからです。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中",
+    "possibleSmallEvents": "車内で文庫本を出す→立ったまま読めるページを開く / 車内で文庫本を出す→立ったまま読めるページを開くところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=淡ブルーブラウスとライトグレーカーディガン / ハーフアップ / 低めパンプス",
+    "wardrobeContext": "沙耶=淡ブルーブラウスとライトグレーカーディガン / ハーフアップ / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
