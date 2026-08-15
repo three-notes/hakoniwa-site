@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-15",
+  "createdAt": "2026-08-15 15:29:28 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "ドラッグストアで常備品を補充する→ポーチの中身を思い出すところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "ドラッグストアで絆創膏を選んでたら、ポーチにまだあった気がして手が止まった。念のため見ておく。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "ドラッグストア（休日）",
+    "possibleSmallEvents": "ドラッグストアで常備品を補充する→ポーチの中身を思い出す / ドラッグストアで常備品を補充する→ポーチの中身を思い出すところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=シンプルワンピースにカーディガン / ゆるく下ろしたセミロング / 白スニーカー",
+    "wardrobeContext": "片代=シンプルワンピースにカーディガン / ゆるく下ろしたセミロング / 白スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
