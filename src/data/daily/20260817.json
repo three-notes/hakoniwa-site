@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-17",
+  "createdAt": "2026-08-17 07:08:31 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "車内広告を眺める→知らない言葉をスマホで検索するところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "通勤中、車内広告を眺めてたら知らない言葉が出てきて、スマホで検索してる。朝から広告に宿題を出された感じ。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "車内広告に知らない言葉があって、スマホで検索してる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "朝の通勤中に検索までしてるの、ちゃんと気になったんだね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "駅広告ってたまに急に難しい言葉を置いてくるよね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "うん、検索結果を見ながらもう一回広告見る",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "前髪はピンで留まってるのに、視線は広告に留まらないね",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中(駅・道)",
+    "possibleSmallEvents": "車内広告を眺める→知らない言葉をスマホで検索する / 車内広告を眺める→知らない言葉をスマホで検索するところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "少し蒸す",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "22.6",
+    "wardrobeContext": "瑠奈=半袖シャツとイージーパンツ / 前髪を軽くピン留め / 白スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
