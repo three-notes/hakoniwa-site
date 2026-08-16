@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-16",
+  "createdAt": "2026-08-16 13:10:32 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "気になる物を買いすぎて予算オーバーする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "スーパーの期間限定コーナー、端から端まで見るつもりだけだったのに、気になる物を買いすぎて予算オーバーした。エコバッグだけが先に休日を満喫してる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "スーパー（休日）",
+    "possibleSmallEvents": "スーパーで期間限定コーナーを端から端まで見る / 気になる物を買いすぎて予算オーバーする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "少し蒸す",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "25",
+    "wardrobeContext": "瑠奈=ビッグTシャツとナイロン台形スカート / 前髪だけピン留め / スポーツサンダル"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
