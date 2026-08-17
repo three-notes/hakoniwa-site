@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-18",
+  "createdAt": "2026-08-18 07:57:44 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "見入って電車を一本遅らせる"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "駅の広告が気になって二度見してたら、電車を一本遅らせた。朝から広告に足を止められてる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中(駅・道)",
+    "possibleSmallEvents": "駅の広告が気になって二度見する / 見入って電車を一本遅らせる",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
