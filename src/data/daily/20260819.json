@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-19",
+  "createdAt": "2026-08-19 12:27:04 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "自分で決めた色分けを一か所だけ貼り直す"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "職場で資料を付箋で整理していたら、色分けを一か所だけ貼り直すことに。机の端にはそろえたので、今日はここまでで大丈夫ということにします。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場",
+    "possibleSmallEvents": "資料を付箋で整理する→机の端にそろえる / 自分で決めた色分けを一か所だけ貼り直す",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=半袖ブラウスに薄手カーディガン / 耳掛け、少し緩め / 低めパンプス",
+    "wardrobeContext": "沙耶=半袖ブラウスに薄手カーディガン / 耳掛け、少し緩め / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
