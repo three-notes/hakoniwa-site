@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-20",
+  "createdAt": "2026-08-20 18:10:56 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "100均で収納ケースを見る→机の上を思い出すところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "100均で収納ケースを見ていたら、机の上のことを思い出しました。必要かどうかは、机を見てから考えることにします。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "after_work",
+    "characterLocation": "100均",
+    "possibleSmallEvents": "100均で収納ケースを見る→机の上を思い出す / 100均で収納ケースを見る→机の上を思い出すところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=淡ブルーブラウスとベージュフレアスカート / ハーフアップ / バレエシューズ",
+    "wardrobeContext": "沙耶=淡ブルーブラウスとベージュフレアスカート / ハーフアップ / バレエシューズ"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
