@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-21",
+  "createdAt": "2026-08-21 18:59:54 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "使い道が決まる前に手に持っている"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "> 仕事帰りに100均で使い道を考えるつもりだった便利グッズ、もう手に持ってた。考える前に動く係、今日もいる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "after_work",
+    "characterLocation": "100均（平日）",
+    "possibleSmallEvents": "100均で謎の便利グッズを見つける→使い道を後から考える / 使い道が決まる前に手に持っている",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=半袖シャツに軽いパンツを合わせた服装 / 少し寝癖が残ったままの髪 / スニーカー",
+    "wardrobeContext": "瑠奈=半袖シャツに軽いパンツを合わせた服装 / 少し寝癖が残ったままの髪 / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
