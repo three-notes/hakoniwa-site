@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-22",
+  "createdAt": "2026-08-22 14:59:49 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "使い道は帰ってから考えることにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "100均で使い道を確認してから手に取るつもりだったのに、先に小物を手に取ってた。使い道は帰ってから考える、たぶん。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "100均で使い道の分からない小物を手に取ってる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "もう手元にあるなら、かなり気になってたんだね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "それある。考える前に手が動くやつ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "使い道は帰ってから考えることにする",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "うんうん、小物の説明はあとで読む",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "100均（休日）",
+    "possibleSmallEvents": "100均で使い道の分からない小物を見つける→とりあえず手に取る / 使い道は帰ってから考えることにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=ビッグTシャツとナイロン台形スカート / 前髪だけピン留め / スポーツサンダル",
+    "wardrobeContext": "瑠奈=ビッグTシャツとナイロン台形スカート / 前髪だけピン留め / スポーツサンダル"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
