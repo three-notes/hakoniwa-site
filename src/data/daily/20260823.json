@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-23",
+  "createdAt": "2026-08-23 12:40:32 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "図書館で返す本を出す→次に借りる本の棚を見るところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "図書館で返す本を出して、次に借りる本の棚を見ています。返した直後なのに、もう次の本を探している。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "図書館で本を返したあと、次に借りる本の棚を見てる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "返却したらすぐ棚を見るの、あるある",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "図書館カード持ってる手がもう次の本を探してそう",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "まだ見るだけにしてる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "その「見るだけ」が長くなるやつ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "もう少しだけ見てる",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "図書館",
+    "possibleSmallEvents": "図書館で返す本を出す→次に借りる本の棚を見る / 図書館で返す本を出す→次に借りる本の棚を見るところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=薄手ニットと小花柄ロングスカート / ハーフアップ / バレエシューズ",
+    "wardrobeContext": "沙耶=薄手ニットと小花柄ロングスカート / ハーフアップ / バレエシューズ"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
