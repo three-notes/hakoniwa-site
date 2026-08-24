@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-24",
+  "createdAt": "2026-08-24 18:12:44 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "涼むつもりが、帰りが少し遅くなる"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "公園脇の道の木陰に入ったら、歩く音が少し静かになった。涼むつもりが帰りは少し遅くなっていて、こういう発見は好きです。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "公園脇の道の木陰に入ったら、歩く音が少し静かになった",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "歩く速さを落とすと、音も静かに聞こえるんだね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "涼むつもりが、帰りは少し遅くなったんだ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "うん、少しだけ",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": "瑠奈",
+        "sticker": "びっくり",
+        "body": "【びっくり】"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "after_work",
+    "characterLocation": "公園脇の道",
+    "possibleSmallEvents": "帰り道の公園脇を少しだけ遠回りする→木陰で歩く速度を落とす / 涼むつもりが、帰りが少し遅くなる",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス",
+    "wardrobeContext": "沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
