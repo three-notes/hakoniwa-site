@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-25",
+  "createdAt": "2026-08-25 21:29:26 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "暖房の効いた部屋でリュックの中身を出しっぱなしにするところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "自宅の暖房の効いた部屋で、リュックの中身を出したままにしてる。財布だけ、まだ床にいる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "night_home",
+    "characterLocation": "自宅",
+    "possibleSmallEvents": "暖房の効いた部屋でリュックの中身を出しっぱなしにする / 暖房の効いた部屋でリュックの中身を出しっぱなしにするところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "蒸し暑い",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "28.1",
+    "wardrobeContext": "瑠奈=Tシャツとジャージパンツ / 前髪だけヘアピンで留めている / 裸足か靴下"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
