@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-26",
+  "createdAt": "2026-08-26 12:27:16 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "コンビニで新しいグミを見つける→即決で買うところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "コンビニで新しいグミ見つけて、考える前に財布出して買った。暑かったし、これは必要経費。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "コンビニ",
+    "possibleSmallEvents": "コンビニで新しいグミを見つける→即決で買う / コンビニで新しいグミを見つける→即決で買うところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=無地カットソーとストレッチパンツの組み合わせ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
