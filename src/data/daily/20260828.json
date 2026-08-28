@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-28",
+  "createdAt": "2026-08-28 12:57:48 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "似た傘が並んでいて一瞬だけ不安になる"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "職場の傘立てで自分の傘を確認するだけなのに、似た傘が多くて一瞬迷った。持ち手を見て、やっと本人確認。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "職場の傘立て、似た傘が並んでて自分の傘か迷った",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "持ち手を見るのがよさそう",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "見たら合ってた。傘なのに本人確認が必要だった",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "今日は持ち手を目印にしよ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "うん、そうする",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場",
+    "possibleSmallEvents": "傘立てで自分の傘を確認する→持ち手を見る / 似た傘が並んでいて一瞬だけ不安になる",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス",
+    "wardrobeContext": "沙耶=職場用の白ブラウスとネイビーフレアスカート / 低めポニーテール / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
