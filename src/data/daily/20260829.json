@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-29",
+  "createdAt": "2026-08-29 21:27:02 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "思いついた休日の遊びの計画を友人にLINEで送るまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "自宅でスマホ見てたら休日の遊びを思いついたので、そのまま計画をLINEで送った。夜の思いつき、送るところまでが一番早い。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "休日の遊びの計画思いついたから送った",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "自宅で考えてたの？",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "うん、スマホでそのまま",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "もう送ったんだ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "送信まで終わった",
+        "reaction": null
+      },
+      {
+        "type": "sticker",
+        "speaker": "片代",
+        "sticker": "笑",
+        "body": "【笑】"
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "night_home",
+    "characterLocation": "自宅",
+    "possibleSmallEvents": "思いついた休日の遊びの計画を友人にLINEで送る / 思いついた休日の遊びの計画を友人にLINEで送るまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "- temperature_feel: 暑い",
+    "temperatureFeel": "暑い",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足",
+    "wardrobeContext": "瑠奈=オーバーサイズTシャツとハーフパンツのラフな部屋着 / 少し跳ねた黒髪ボブ / 裸足"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
