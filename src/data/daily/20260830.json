@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-30",
+  "createdAt": "2026-08-30 14:06:21 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "使い道は帰ってから考えることにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "100均で使い道を考えるつもりだった小物、気づいたら先に手に取ってた。考えるのは帰ってからでいいらしい。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "100均で使い道の分からない小物、また手に取ってた",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "使い道より先に手元にあるの、分かる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "私も棚の前で考えてるうちに、持つところまでは進む",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "みんな同じなら、とりあえず持つ工程は必要なんだ",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "その小物の使い道は帰ってから考えよう",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "100均（休日）",
+    "possibleSmallEvents": "100均で使い道の分からない小物を見つける→とりあえず手に取る / 使い道は帰ってから考えることにする",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "夏",
+    "weatherContext": "蒸し暑い",
+    "temperatureFeel": "少し蒸す",
+    "weatherSource": "open-meteo",
+    "weatherLocation": "東京付近",
+    "temperatureC": "25.3",
+    "wardrobeContext": "瑠奈=パーカーとカーゴパンツのラフな私服 / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
