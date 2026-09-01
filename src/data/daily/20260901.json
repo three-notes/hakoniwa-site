@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-01",
+  "createdAt": "2026-09-01 13:17:08 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "残りが少なく、帰りに買うメモへ足す"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "職場の休憩スペースで紅茶を淹れて、ティーバッグの残りが少ないことに気づいた。帰りに買うメモへ足したけど、もう少し早く気づきたかったな。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "職場の休憩スペース（平日）",
+    "possibleSmallEvents": "休憩スペースで紅茶を淹れる→ティーバッグの残りを見る / 残りが少なく、帰りに買うメモへ足す",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "秋",
+    "weatherContext": "- temperature_feel: 涼しい",
+    "temperatureFeel": "涼しい",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=白ブラウスとプリーツスカートの組み合わせ / 軽い内巻きのセミロング / ベージュパンプス",
+    "wardrobeContext": "片代=白ブラウスとプリーツスカートの組み合わせ / 軽い内巻きのセミロング / ベージュパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
