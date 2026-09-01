@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-02",
+  "createdAt": "2026-09-02 07:01:33 +0900",
+  "eventOwner": "沙耶",
+  "seed": {
+    "label": "揺れが気になり、同じ段落を二度読む"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "沙耶",
+    "handle": "@saya",
+    "text": "通勤中に文庫本を開いたけど、揺れが気になって同じ段落を二度読んでる。今日は一段ずつでいいことにします。"
+  },
+  "line": {
+    "hasLine": true,
+    "mode": "mini",
+    "title": "三人のトーク",
+    "messages": [
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "通勤中、文庫本を開いたら同じ段落を二度読んでる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "片代",
+        "body": "揺れ、読書の進み方まで見てる",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "瑠奈",
+        "body": "その段落だけ朝から人気だね",
+        "reaction": null
+      },
+      {
+        "type": "message",
+        "speaker": "沙耶",
+        "body": "もう一回だけ読んで、次のページを開く",
+        "reaction": null
+      }
+    ]
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中",
+    "possibleSmallEvents": "車内で文庫本を出す→立ったまま読めるページを開く / 揺れが気になり、同じ段落を二度読む",
+    "cafeAvailability": "",
+    "lineAvailability": "可",
+    "xPostLikelihood": "",
+    "seasonContext": "秋",
+    "weatherContext": "- temperature_feel: 涼しい",
+    "temperatureFeel": "涼しい",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 沙耶=淡ブルーブラウスとライトグレーカーディガン / ハーフアップ / 低めパンプス",
+    "wardrobeContext": "沙耶=淡ブルーブラウスとライトグレーカーディガン / ハーフアップ / 低めパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
