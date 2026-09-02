@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-03",
+  "createdAt": "2026-09-03 07:50:27 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "少し早めに家を出て、乗り換えの混雑を避けて歩くところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "少し早めに家を出て、乗り換えの混雑を避けて歩いてる。通勤バッグを持って、駅から歩く朝。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中(駅・道)",
+    "possibleSmallEvents": "少し早めに家を出て、乗り換えの混雑を避けて歩く / 少し早めに家を出て、乗り換えの混雑を避けて歩くところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "秋",
+    "weatherContext": "- temperature_feel: 涼しい",
+    "temperatureFeel": "涼しい",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=ベージュブラウスと控えめなフレアスカート / 軽い内巻きのセミロング / ローヒールパンプス",
+    "wardrobeContext": "片代=ベージュブラウスと控えめなフレアスカート / 軽い内巻きのセミロング / ローヒールパンプス"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
