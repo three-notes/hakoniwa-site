@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-04",
+  "createdAt": "2026-09-04 08:21:39 +0900",
+  "eventOwner": "瑠奈",
+  "seed": {
+    "label": "車内広告を眺める→知らない言葉をスマホで検索するところまでで一区切りにする"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "瑠奈",
+    "handle": "@runa",
+    "text": "通勤中、車内広告を眺めてたら知らない言葉が出てきて、そのままスマホで検索してた。朝から広告の読解係。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "morning_commute",
+    "characterLocation": "通勤中(駅・道)",
+    "possibleSmallEvents": "車内広告を眺める→知らない言葉をスマホで検索する / 車内広告を眺める→知らない言葉をスマホで検索するところまでで一区切りにする",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "秋",
+    "weatherContext": "- temperature_feel: 涼しい",
+    "temperatureFeel": "涼しい",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー",
+    "wardrobeContext": "瑠奈=シンプルなカットソーとテーパードパンツ / 黒髪ボブそのまま / スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
