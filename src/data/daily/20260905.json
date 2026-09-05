@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-05",
+  "createdAt": "2026-09-05 14:01:17 +0900",
+  "eventOwner": "片代",
+  "seed": {
+    "label": "買う予定のない小さなケースまで見てしまう"
+  },
+  "x": {
+    "hasPost": true,
+    "poster": "片代",
+    "handle": "@katayo",
+    "text": "ドラッグストアで常備品を補充するつもりが、ポーチの中身を思い出しながら小さなケースまで見てた。予定にはないのに、目だけ先に寄り道してる。"
+  },
+  "line": {
+    "hasLine": false,
+    "mode": "none",
+    "title": null,
+    "messages": []
+  },
+  "dailyContext": {
+    "timeSlot": "lunch",
+    "characterLocation": "ドラッグストア（休日）",
+    "possibleSmallEvents": "ドラッグストアで常備品を補充する→ポーチの中身を思い出す / 買う予定のない小さなケースまで見てしまう",
+    "cafeAvailability": "",
+    "lineAvailability": "なし",
+    "xPostLikelihood": "",
+    "seasonContext": "秋",
+    "weatherContext": "- temperature_feel: 涼しい",
+    "temperatureFeel": "涼しい",
+    "weatherSource": "synthetic",
+    "weatherLocation": "scene_estimate",
+    "temperatureC": "- wardrobe_context: 片代=シンプルワンピースにカーディガン / ゆるく下ろしたセミロング / 白スニーカー",
+    "wardrobeContext": "片代=シンプルワンピースにカーディガン / ゆるく下ろしたセミロング / 白スニーカー"
+  },
+  "noteMemo": {
+    "titleCandidate": "",
+    "narrator": "",
+    "theme": "",
+    "rememberedLine": ""
+  }
+}
